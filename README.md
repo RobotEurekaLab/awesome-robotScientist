@@ -119,14 +119,35 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Closed-loop autonomous systems for materials discovery](https://arxiv.org/)** (2024)
-  - Focus: Integration of ML and robotic experimentation
-  
-- **[Large language models for scientific hypothesis generation](https://arxiv.org/)** (2024)
-  - Focus: Using LLMs to guide experimental design
+- **[Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent](http://arxiv.org/abs/2510.21704v1)** (2025-10)
+  - Christy Li, Josep Lopez Camuñas, Jake Thomas Touchet
+  - When a vision model performs image recognition, which visual attributes drive
+its predictions? Detecting unintended reliance on specific visual features is
+critical for ensuring model robustness, prev...
 
-- **[Accelerating materials discovery with self-driving labs](https://arxiv.org/)** (2023)
-  - Focus: High-throughput autonomous materials synthesis
+- **[On Uncertainty Calibration for Equivariant Functions](http://arxiv.org/abs/2510.21691v1)** (2025-10)
+  - Edward Berman, Jacob Ginesin, Marco Pacini
+  - Data-sparse settings such as robotic manipulation, molecular physics, and
+galaxy morphology classification are some of the hardest domains for deep
+learning. For these problems, equivariant networks c...
+
+- **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** (2025-10)
+  - Riya Gupta, Yiwei Zong, Dennis H. Murphree
+  - The rapid generation of whole-slide images (WSIs) in dermatopathology
+necessitates automated methods for efficient processing and accurate
+classification. This study evaluates the performance of two f...
+
+- **[AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite](http://arxiv.org/abs/2510.21652v1)** (2025-10)
+  - Jonathan Bragg, Mike D'Arcy, Nishant Balepur
+  - AI agents hold the potential to revolutionize scientific productivity by
+automating literature reviews, replicating experiments, analyzing data, and
+even proposing new directions of inquiry; indeed, t...
+
+- **[Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning](http://arxiv.org/abs/2510.21648v1)** (2025-10)
+  - Inbazhagan Ravikumar, Ram Sundhar, Narendhiran Vijayakumar
+  - Micro aerial vehicles are becoming increasingly important in search and
+rescue operations due to their agility, speed, and ability to access confined
+spaces or hazardous areas. However, designing ligh...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -220,6 +241,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-10-13 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-10-27 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
