@@ -19,9 +19,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2025-10**: Advances in self-driving labs and autonomous research continue
-- **2025-10**: New AI models for scientific hypothesis generation and testing
-- **2025-10**: Integration of robotics and machine learning in laboratory automation
+- **2025-11**: Advances in self-driving labs and autonomous research continue
+- **2025-11**: New AI models for scientific hypothesis generation and testing
+- **2025-11**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -119,35 +119,35 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Automated Detection of Visual Attribute Reliance with a Self-Reflective Agent](http://arxiv.org/abs/2510.21704v1)** (2025-10)
-  - Christy Li, Josep Lopez Camuñas, Jake Thomas Touchet
-  - When a vision model performs image recognition, which visual attributes drive
-its predictions? Detecting unintended reliance on specific visual features is
-critical for ensuring model robustness, prev...
+- **[Teaching competencies in physics for engineering education: A qualitative analysis from teaching practice](http://arxiv.org/abs/2510.27674v1)** (2025-10)
+  - Vanessa Cruz Molina, Daniel Sanchez Guzman, Teodoro Rivera Montalvo
+  - Physics teaching in engineering programmes poses discipline-specific demands
+that intertwine conceptual modelling, experimental inquiry, and computational
+analysis. This study examines nine teaching c...
 
-- **[On Uncertainty Calibration for Equivariant Functions](http://arxiv.org/abs/2510.21691v1)** (2025-10)
-  - Edward Berman, Jacob Ginesin, Marco Pacini
-  - Data-sparse settings such as robotic manipulation, molecular physics, and
-galaxy morphology classification are some of the hardest domains for deep
-learning. For these problems, equivariant networks c...
+- **[Validity Is What You Need](http://arxiv.org/abs/2510.27628v1)** (2025-10)
+  - Sebastian Benthall, Andrew Clark
+  - While AI agents have long been discussed and studied in computer science,
+today's Agentic AI systems are something new. We consider other definitions of
+Agentic AI and propose a new realist definition...
 
-- **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** (2025-10)
-  - Riya Gupta, Yiwei Zong, Dennis H. Murphree
-  - The rapid generation of whole-slide images (WSIs) in dermatopathology
-necessitates automated methods for efficient processing and accurate
-classification. This study evaluates the performance of two f...
+- **[Poincaré Maps with the Theory of Functional Connections](http://arxiv.org/abs/2510.27626v1)** (2025-10)
+  - A. K. de Almeida Jr, Daniele Mortari
+  - Poincar\'e maps play a fundamental role in nonlinear dynamics and chaos
+theory, offering a means to reduce the dimensionality of continuous dynamical
+systems by tracking the intersections of trajector...
 
-- **[AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research Suite](http://arxiv.org/abs/2510.21652v1)** (2025-10)
-  - Jonathan Bragg, Mike D'Arcy, Nishant Balepur
-  - AI agents hold the potential to revolutionize scientific productivity by
-automating literature reviews, replicating experiments, analyzing data, and
-even proposing new directions of inquiry; indeed, t...
+- **[Optical Micromanipulations based on Model Predictive Control of Thermoviscous Flows](http://arxiv.org/abs/2510.27609v1)** (2025-10)
+  - Elena Erben, Ivan Saraev, Weida Liao
+  - High-precision micromanipulation techniques, including optical tweezers and
+hydrodynamic trapping, have garnered wide-spread interest. Recent advances in
+optofluidic multiplexed assembly and microrobo...
 
-- **[Design and Structural Validation of a Micro-UAV with On-Board Dynamic Route Planning](http://arxiv.org/abs/2510.21648v1)** (2025-10)
-  - Inbazhagan Ravikumar, Ram Sundhar, Narendhiran Vijayakumar
-  - Micro aerial vehicles are becoming increasingly important in search and
-rescue operations due to their agility, speed, and ability to access confined
-spaces or hazardous areas. However, designing ligh...
+- **[Trends and Challenges in Next-Generation GNSS Interference Management](http://arxiv.org/abs/2510.27576v1)** (2025-10)
+  - Leatile Marata, Mariona Jaramillo-Civill, Tales Imbiriba
+  - The global navigation satellite system (GNSS) continues to evolve in order to
+meet the demands of emerging applications such as autonomous driving and smart
+environmental monitoring. However, these ad...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -241,6 +241,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-10-27 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-11-03 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
