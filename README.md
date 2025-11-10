@@ -119,35 +119,35 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Teaching competencies in physics for engineering education: A qualitative analysis from teaching practice](http://arxiv.org/abs/2510.27674v1)** (2025-10)
-  - Vanessa Cruz Molina, Daniel Sanchez Guzman, Teodoro Rivera Montalvo
-  - Physics teaching in engineering programmes poses discipline-specific demands
-that intertwine conceptual modelling, experimental inquiry, and computational
-analysis. This study examines nine teaching c...
+- **[EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation](http://arxiv.org/abs/2511.05397v1)** (2025-11)
+  - Samarth Chopra, Alex McMoil, Ben Carnovale
+  - While Vision-Language-Action (VLA) models map visual inputs and language
+instructions directly to robot actions, they often rely on costly hardware and
+struggle in novel or cluttered scenes. We introd...
 
-- **[Validity Is What You Need](http://arxiv.org/abs/2510.27628v1)** (2025-10)
-  - Sebastian Benthall, Andrew Clark
-  - While AI agents have long been discussed and studied in computer science,
-today's Agentic AI systems are something new. We consider other definitions of
-Agentic AI and propose a new realist definition...
+- **[Quantum-Uncertainty-Governed Spin Dynamics in s-d Coupled Systems](http://arxiv.org/abs/2511.05388v1)** (2025-11)
+  - Jie Zheng, Jiyong Kang, Zheng Zhu
+  - We investigate quantum fluctuation effects arising from the Heisenberg
+uncertainty principle governing angular momentum operators in the full
+dynamical evolution of disentanglement-entanglement-disent...
 
-- **[Poincaré Maps with the Theory of Functional Connections](http://arxiv.org/abs/2510.27626v1)** (2025-10)
-  - A. K. de Almeida Jr, Daniele Mortari
-  - Poincar\'e maps play a fundamental role in nonlinear dynamics and chaos
-theory, offering a means to reduce the dimensionality of continuous dynamical
-systems by tracking the intersections of trajector...
+- **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** (2025-11)
+  - Chao Zhang, Yuhao Wang, Derong Xu
+  - Retrieval-Augmented Generation (RAG) utilizes external knowledge to augment
+Large Language Models' (LLMs) reliability. For flexibility, agentic RAG employs
+autonomous, multi-round retrieval and reason...
 
-- **[Optical Micromanipulations based on Model Predictive Control of Thermoviscous Flows](http://arxiv.org/abs/2510.27609v1)** (2025-10)
-  - Elena Erben, Ivan Saraev, Weida Liao
-  - High-precision micromanipulation techniques, including optical tweezers and
-hydrodynamic trapping, have garnered wide-spread interest. Recent advances in
-optofluidic multiplexed assembly and microrobo...
+- **[ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](http://arxiv.org/abs/2511.05359v1)** (2025-11)
+  - Amr Gomaa, Ahmed Salem, Sahar Abdelnabi
+  - As language models evolve into autonomous agents that act and communicate on
+behalf of users, ensuring safety in multi-agent ecosystems becomes a central
+challenge. Interactions between personal assis...
 
-- **[Trends and Challenges in Next-Generation GNSS Interference Management](http://arxiv.org/abs/2510.27576v1)** (2025-10)
-  - Leatile Marata, Mariona Jaramillo-Civill, Tales Imbiriba
-  - The global navigation satellite system (GNSS) continues to evolve in order to
-meet the demands of emerging applications such as autonomous driving and smart
-environmental monitoring. However, these ad...
+- **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](http://arxiv.org/abs/2511.05269v1)** (2025-11)
+  - Ishan Kavathekar, Hemang Jain, Ameya Rathod
+  - Large Language Models (LLMs) have demonstrated strong capabilities as
+autonomous agents through tool use, planning, and decision-making abilities,
+leading to their widespread adoption across diverse t...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -241,6 +241,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-11-03 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-11-10 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
