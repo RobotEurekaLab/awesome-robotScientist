@@ -19,9 +19,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2025-10**: Advances in self-driving labs and autonomous research continue
-- **2025-10**: New AI models for scientific hypothesis generation and testing
-- **2025-10**: Integration of robotics and machine learning in laboratory automation
+- **2025-11**: Advances in self-driving labs and autonomous research continue
+- **2025-11**: New AI models for scientific hypothesis generation and testing
+- **2025-11**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -119,14 +119,35 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Closed-loop autonomous systems for materials discovery](https://arxiv.org/)** (2024)
-  - Focus: Integration of ML and robotic experimentation
-  
-- **[Large language models for scientific hypothesis generation](https://arxiv.org/)** (2024)
-  - Focus: Using LLMs to guide experimental design
+- **[EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation](http://arxiv.org/abs/2511.05397v1)** (2025-11)
+  - Samarth Chopra, Alex McMoil, Ben Carnovale
+  - While Vision-Language-Action (VLA) models map visual inputs and language
+instructions directly to robot actions, they often rely on costly hardware and
+struggle in novel or cluttered scenes. We introd...
 
-- **[Accelerating materials discovery with self-driving labs](https://arxiv.org/)** (2023)
-  - Focus: High-throughput autonomous materials synthesis
+- **[Quantum-Uncertainty-Governed Spin Dynamics in s-d Coupled Systems](http://arxiv.org/abs/2511.05388v1)** (2025-11)
+  - Jie Zheng, Jiyong Kang, Zheng Zhu
+  - We investigate quantum fluctuation effects arising from the Heisenberg
+uncertainty principle governing angular momentum operators in the full
+dynamical evolution of disentanglement-entanglement-disent...
+
+- **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** (2025-11)
+  - Chao Zhang, Yuhao Wang, Derong Xu
+  - Retrieval-Augmented Generation (RAG) utilizes external knowledge to augment
+Large Language Models' (LLMs) reliability. For flexibility, agentic RAG employs
+autonomous, multi-round retrieval and reason...
+
+- **[ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](http://arxiv.org/abs/2511.05359v1)** (2025-11)
+  - Amr Gomaa, Ahmed Salem, Sahar Abdelnabi
+  - As language models evolve into autonomous agents that act and communicate on
+behalf of users, ensuring safety in multi-agent ecosystems becomes a central
+challenge. Interactions between personal assis...
+
+- **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](http://arxiv.org/abs/2511.05269v1)** (2025-11)
+  - Ishan Kavathekar, Hemang Jain, Ameya Rathod
+  - Large Language Models (LLMs) have demonstrated strong capabilities as
+autonomous agents through tool use, planning, and decision-making abilities,
+leading to their widespread adoption across diverse t...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -220,6 +241,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-10-13 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-11-10 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
