@@ -119,35 +119,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation](http://arxiv.org/abs/2511.05397v1)** (2025-11)
-  - Samarth Chopra, Alex McMoil, Ben Carnovale
-  - While Vision-Language-Action (VLA) models map visual inputs and language
-instructions directly to robot actions, they often rely on costly hardware and
-struggle in novel or cluttered scenes. We introd...
+- **[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)** (2025-11)
+  - Guangxuan Xiao, Junxian Guo, Kasra Mazaheri
+  - Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value...
 
-- **[Quantum-Uncertainty-Governed Spin Dynamics in s-d Coupled Systems](http://arxiv.org/abs/2511.05388v1)** (2025-11)
-  - Jie Zheng, Jiyong Kang, Zheng Zhu
-  - We investigate quantum fluctuation effects arising from the Heisenberg
-uncertainty principle governing angular momentum operators in the full
-dynamical evolution of disentanglement-entanglement-disent...
+- **[Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy](http://arxiv.org/abs/2511.11558v1)** (2025-11)
+  - Asraful Haque, Daniel T. Yimam, Jawad Chowdhury
+  - Autonomous laboratories typically rely on data-driven decision-making, occasionally with human-in-the-loop oversight to inject domain expertise. Fully leveraging AI agents, however, requires tightly c...
 
-- **[TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2511.05385v1)** (2025-11)
-  - Chao Zhang, Yuhao Wang, Derong Xu
-  - Retrieval-Augmented Generation (RAG) utilizes external knowledge to augment
-Large Language Models' (LLMs) reliability. For flexibility, agentic RAG employs
-autonomous, multi-round retrieval and reason...
+- **[Terrain Costmap Generation via Scaled Preference Conditioning](http://arxiv.org/abs/2511.11529v1)** (2025-11)
+  - Luisa Mao, Garret Warnell, Peter Stone
+  - Successful autonomous robot navigation in off-road domains requires the ability to generate high-quality terrain costmaps that are able to both generalize well over a wide variety of terrains and rapi...
 
-- **[ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](http://arxiv.org/abs/2511.05359v1)** (2025-11)
-  - Amr Gomaa, Ahmed Salem, Sahar Abdelnabi
-  - As language models evolve into autonomous agents that act and communicate on
-behalf of users, ensuring safety in multi-agent ecosystems becomes a central
-challenge. Interactions between personal assis...
+- **[Photonic-integrated quantum sensor array for microscale magnetic localisation](http://arxiv.org/abs/2511.11496v1)** (2025-11)
+  - Hao-Cheng Weng, John G. Rarity, Krishna C. Balram
+  - Nitrogen-vacancy centres (NVs) are promising solid-state nanoscale quantum sensors for applications ranging from material science to biotechnology. Using multiple sensors simultaneously offers advanta...
 
-- **[TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems](http://arxiv.org/abs/2511.05269v1)** (2025-11)
-  - Ishan Kavathekar, Hemang Jain, Ameya Rathod
-  - Large Language Models (LLMs) have demonstrated strong capabilities as
-autonomous agents through tool use, planning, and decision-making abilities,
-leading to their widespread adoption across diverse t...
+- **[A Comparative Evaluation of Prominent Methods in Autonomous Vehicle Certification](http://arxiv.org/abs/2511.11484v1)** (2025-11)
+  - Mustafa Erdem Kırmızıgül, Hasan Feyzi Doğruyol, Haluk Bayram
+  - The "Vision Zero" policy, introduced by the Swedish Parliament in 1997, aims to eliminate fatalities and serious injuries resulting from traffic accidents. To achieve this goal, the use of self-drivin...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -241,6 +231,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-11-10 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-11-17 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
