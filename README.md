@@ -119,25 +119,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)** (2025-11)
-  - Guangxuan Xiao, Junxian Guo, Kasra Mazaheri
-  - Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value...
+- **[HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation](http://arxiv.org/abs/2511.17497v1)** (2025-11)
+  - Yuezhan Tao, Dexter Ong, Fernando Cladera
+  - We demonstrate real-time high-altitude aerial metric-semantic mapping and exploration using a monocular camera paired with a global positioning system (GPS) and an inertial measurement unit (IMU). Our...
 
-- **[Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy](http://arxiv.org/abs/2511.11558v1)** (2025-11)
-  - Asraful Haque, Daniel T. Yimam, Jawad Chowdhury
-  - Autonomous laboratories typically rely on data-driven decision-making, occasionally with human-in-the-loop oversight to inject domain expertise. Fully leveraging AI agents, however, requires tightly c...
+- **[MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments](http://arxiv.org/abs/2511.17496v1)** (2025-11)
+  - Zhiyu Huang, Zewei Zhou, Tianhui Cai
+  - Modeling realistic and interactive multi-agent behavior is critical to autonomous driving and traffic simulation. However, existing diffusion and autoregressive approaches are limited by iterative sam...
 
-- **[Terrain Costmap Generation via Scaled Preference Conditioning](http://arxiv.org/abs/2511.11529v1)** (2025-11)
-  - Luisa Mao, Garret Warnell, Peter Stone
-  - Successful autonomous robot navigation in off-road domains requires the ability to generate high-quality terrain costmaps that are able to both generalize well over a wide variety of terrains and rapi...
+- **[Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry](http://arxiv.org/abs/2511.17446v1)** (2025-11)
+  - Kyle M. Regan, Michael McLoughlin, Wayne A. Bryden
+  - Matrix Assisted Laser Desorption/Ionization Mass Spectrometry (MALDI-MS) is a cornerstone in biomolecular analysis, offering precise identification of pathogens through unique mass spectral signatures...
 
-- **[Photonic-integrated quantum sensor array for microscale magnetic localisation](http://arxiv.org/abs/2511.11496v1)** (2025-11)
-  - Hao-Cheng Weng, John G. Rarity, Krishna C. Balram
-  - Nitrogen-vacancy centres (NVs) are promising solid-state nanoscale quantum sensors for applications ranging from material science to biotechnology. Using multiple sensors simultaneously offers advanta...
+- **[Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment](http://arxiv.org/abs/2511.17401v1)** (2025-11)
+  - Xiaoshan Zhou, Carol C. Menassa, Vineet R. Kamat
+  - Non-invasive electroencephalography (EEG)-based brain-computer interfaces (BCIs) offer an intuitive means for individuals with severe motor impairments to independently operate assistive robotic wheel...
 
-- **[A Comparative Evaluation of Prominent Methods in Autonomous Vehicle Certification](http://arxiv.org/abs/2511.11484v1)** (2025-11)
-  - Mustafa Erdem Kırmızıgül, Hasan Feyzi Doğruyol, Haluk Bayram
-  - The "Vision Zero" policy, introduced by the Swedish Parliament in 1997, aims to eliminate fatalities and serious injuries resulting from traffic accidents. To achieve this goal, the use of self-drivin...
+- **[Vector Cost Behavioral Planning for Autonomous Robotic Systems with Contemporary Validation Strategies](http://arxiv.org/abs/2511.17375v1)** (2025-11)
+  - Benjamin R. Toaz, Quentin Goss, John Thompson
+  - The vector cost bimatrix game is a method for multi-objective decision making that enables autonomous robotic systems to optimize for multiple goals at once while avoiding worst-case scenarios in negl...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -231,6 +231,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-11-17 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-11-24 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
