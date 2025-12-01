@@ -19,9 +19,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2025-11**: Advances in self-driving labs and autonomous research continue
-- **2025-11**: New AI models for scientific hypothesis generation and testing
-- **2025-11**: Integration of robotics and machine learning in laboratory automation
+- **2025-12**: Advances in self-driving labs and autonomous research continue
+- **2025-12**: New AI models for scientific hypothesis generation and testing
+- **2025-12**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -119,25 +119,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[HALO: High-Altitude Language-Conditioned Monocular Aerial Exploration and Navigation](http://arxiv.org/abs/2511.17497v1)** (2025-11)
-  - Yuezhan Tao, Dexter Ong, Fernando Cladera
-  - We demonstrate real-time high-altitude aerial metric-semantic mapping and exploration using a monocular camera paired with a global positioning system (GPS) and an inertial measurement unit (IMU). Our...
+- **[Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models](http://arxiv.org/abs/2511.23478v1)** (2025-11)
+  - Muhammad Maaz, Hanoona Rasheed, Fahad Shahbaz Khan
+  - Reasoning over dynamic visual content remains a central challenge for multimodal large language models. Recent thinking models generate explicit reasoning traces for interpretability; however, their r...
 
-- **[MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments](http://arxiv.org/abs/2511.17496v1)** (2025-11)
-  - Zhiyu Huang, Zewei Zhou, Tianhui Cai
-  - Modeling realistic and interactive multi-agent behavior is critical to autonomous driving and traffic simulation. However, existing diffusion and autoregressive approaches are limited by iterative sam...
+- **[Video-CoM: Interactive Video Reasoning via Chain of Manipulations](http://arxiv.org/abs/2511.23477v1)** (2025-11)
+  - Hanoona Rasheed, Mohammed Zumri, Muhammad Maaz
+  - Recent multimodal large language models (MLLMs) have advanced video understanding, yet most still "think about videos" ie once a video is encoded, reasoning unfolds entirely in text, treating visual i...
 
-- **[Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry](http://arxiv.org/abs/2511.17446v1)** (2025-11)
-  - Kyle M. Regan, Michael McLoughlin, Wayne A. Bryden
-  - Matrix Assisted Laser Desorption/Ionization Mass Spectrometry (MALDI-MS) is a cornerstone in biomolecular analysis, offering precise identification of pathogens through unique mass spectral signatures...
+- **[Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction](http://arxiv.org/abs/2511.23476v1)** (2025-11)
+  - Bao Shu, Yan Cai, Jianjian Sun
+  - Developing robust world model reasoning is crucial for large language model (LLM) agents to plan and interact in complex environments. While multi-turn interaction offers a superior understanding of e...
 
-- **[Feasibility of Embodied Dynamics Based Bayesian Learning for Continuous Pursuit Motion Control of Assistive Mobile Robots in the Built Environment](http://arxiv.org/abs/2511.17401v1)** (2025-11)
-  - Xiaoshan Zhou, Carol C. Menassa, Vineet R. Kamat
-  - Non-invasive electroencephalography (EEG)-based brain-computer interfaces (BCIs) offer an intuitive means for individuals with severe motor impairments to independently operate assistive robotic wheel...
+- **[AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](http://arxiv.org/abs/2511.23475v1)** (2025-11)
+  - Zhizhou Zhong, Yicheng Ji, Zhe Kong
+  - Recently, multi-person video generation has started to gain prominence. While a few preliminary works have explored audio-driven multi-person talking video generation, they often face challenges due t...
 
-- **[Vector Cost Behavioral Planning for Autonomous Robotic Systems with Contemporary Validation Strategies](http://arxiv.org/abs/2511.17375v1)** (2025-11)
-  - Benjamin R. Toaz, Quentin Goss, John Thompson
-  - The vector cost bimatrix game is a method for multi-objective decision making that enables autonomous robotic systems to optimize for multiple goals at once while avoiding worst-case scenarios in negl...
+- **[A Lyapunov-Based Small-Gain Theorem for Fixed-Time Stability](http://arxiv.org/abs/2511.23474v1)** (2025-11)
+  - Michael Tang, Miroslav Krstic, Jorge Poveda
+  - This paper introduces a novel Lyapunov-based small-gain methodology for establishing fixed-time stability (FxTS) guarantees in interconnected dynamical systems. Specifically, we consider interconnecti...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -231,6 +231,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-11-24 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-12-01 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
