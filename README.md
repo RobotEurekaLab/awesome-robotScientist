@@ -119,25 +119,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models](http://arxiv.org/abs/2511.23478v1)** (2025-11)
-  - Muhammad Maaz, Hanoona Rasheed, Fahad Shahbaz Khan
-  - Reasoning over dynamic visual content remains a central challenge for multimodal large language models. Recent thinking models generate explicit reasoning traces for interpretability; however, their r...
+- **[Trusted AI Agents in the Cloud](http://arxiv.org/abs/2512.05951v1)** (2025-12)
+  - Teofil Bodea, Masanori Misono, Julian Pritzi
+  - AI agents powered by large language models are increasingly deployed as cloud services that autonomously access sensitive data, invoke external tools, and interact with other agents. However, these ag...
 
-- **[Video-CoM: Interactive Video Reasoning via Chain of Manipulations](http://arxiv.org/abs/2511.23477v1)** (2025-11)
-  - Hanoona Rasheed, Mohammed Zumri, Muhammad Maaz
-  - Recent multimodal large language models (MLLMs) have advanced video understanding, yet most still "think about videos" ie once a video is encoded, reasoning unfolds entirely in text, treating visual i...
+- **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](http://arxiv.org/abs/2512.05946v1)** (2025-12)
+  - Truong Thanh Hung Nguyen, Truong Thinh Nguyen, Hung Cao
+  - Resource allocation remains NP-hard due to combinatorial complexity. While deep reinforcement learning (DRL) methods, such as the Rainbow Deep Q-Network (DQN), improve scalability through prioritized ...
 
-- **[Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction](http://arxiv.org/abs/2511.23476v1)** (2025-11)
-  - Bao Shu, Yan Cai, Jianjian Sun
-  - Developing robust world model reasoning is crucial for large language model (LLM) agents to plan and interact in complex environments. While multi-turn interaction offers a superior understanding of e...
+- **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](http://arxiv.org/abs/2512.05941v1)** (2025-12)
+  - Zhiyuan Jiang, Shenghao Xie, Wenyi Li
+  - Grounding is a fundamental capability for building graphical user interface (GUI) agents. Although existing approaches rely on large-scale bounding box supervision, they still face various challenges,...
 
-- **[AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement](http://arxiv.org/abs/2511.23475v1)** (2025-11)
-  - Zhizhou Zhong, Yicheng Ji, Zhe Kong
-  - Recently, multi-person video generation has started to gain prominence. While a few preliminary works have explored audio-driven multi-person talking video generation, they often face challenges due t...
+- **[Physically-Based Simulation of Automotive LiDAR](http://arxiv.org/abs/2512.05932v1)** (2025-12)
+  - L. Dudzik, M. Roschani, A. Sielemann
+  - We present an analytic model for simulating automotive time-of-flight (ToF) LiDAR that includes blooming, echo pulse width, and ambient light, along with steps to determine model parameters systematic...
 
-- **[A Lyapunov-Based Small-Gain Theorem for Fixed-Time Stability](http://arxiv.org/abs/2511.23474v1)** (2025-11)
-  - Michael Tang, Miroslav Krstic, Jorge Poveda
-  - This paper introduces a novel Lyapunov-based small-gain methodology for establishing fixed-time stability (FxTS) guarantees in interconnected dynamical systems. Specifically, we consider interconnecti...
+- **[Transverse envelope dynamics of beam slices in a uniform charged ellipsoidal model of the plasma bubble regime](http://arxiv.org/abs/2512.05904v1)** (2025-12)
+  - Abdul Mannan, Alessio Del Dotto, Massimo Ferrario
+  - We consider a pair of driver/witness electron bunches propagating in an ionized gas background a configuration similar to the one produced in a capillary discharge where a plasma oscillation has been ...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -231,6 +231,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-12-01 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-12-08 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
