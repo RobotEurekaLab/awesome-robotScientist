@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Trusted AI Agents in the Cloud](http://arxiv.org/abs/2512.05951v1)** (2025-12)
-  - Teofil Bodea, Masanori Misono, Julian Pritzi
-  - AI agents powered by large language models are increasingly deployed as cloud services that autonomously access sensitive data, invoke external tools, and interact with other agents. However, these ag...
+- **[Leptophilic Interactions in Nuclear Energy Density Functional Theory](http://arxiv.org/abs/2512.11770v1)** (2025-12)
+  - S. O. Kara
+  - We develop a unified theoretical framework that embeds a light leptophilic vector boson into nuclear energy density functional (EDF) theory. Starting from an underlying leptophilic gauge interaction, ...
 
-- **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](http://arxiv.org/abs/2512.05946v1)** (2025-12)
-  - Truong Thanh Hung Nguyen, Truong Thinh Nguyen, Hung Cao
-  - Resource allocation remains NP-hard due to combinatorial complexity. While deep reinforcement learning (DRL) methods, such as the Rainbow Deep Q-Network (DQN), improve scalability through prioritized ...
+- **[LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems](http://arxiv.org/abs/2512.11750v1)** (2025-12)
+  - Ernesto Casablanca, Oliver Schön, Paolo Zuliani
+  - Ensuring the safety of AI-enabled systems, particularly in high-stakes domains such as autonomous driving and healthcare, has become increasingly critical. Traditional formal verification tools fall s...
 
-- **[Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](http://arxiv.org/abs/2512.05941v1)** (2025-12)
-  - Zhiyuan Jiang, Shenghao Xie, Wenyi Li
-  - Grounding is a fundamental capability for building graphical user interface (GUI) agents. Although existing approaches rely on large-scale bounding box supervision, they still face various challenges,...
+- **[Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots](http://arxiv.org/abs/2512.11736v1)** (2025-12)
+  - Ninghan Zhong, Steven Caro, Megnath Ramesh
+  - Mobile robots are increasingly deployed in cluttered environments with movable objects, posing challenges for traditional methods that prohibit interaction. In such settings, the mobile robot must go ...
 
-- **[Physically-Based Simulation of Automotive LiDAR](http://arxiv.org/abs/2512.05932v1)** (2025-12)
-  - L. Dudzik, M. Roschani, A. Sielemann
-  - We present an analytic model for simulating automotive time-of-flight (ToF) LiDAR that includes blooming, echo pulse width, and ambient light, along with steps to determine model parameters systematic...
+- **[Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](http://arxiv.org/abs/2512.11620v1)** (2025-12)
+  - Kanisorn Sangchai, Methasit Boonpun, Withawin Kraipetchara
+  - The realization of intelligent robots, operating autonomously and interacting with other intelligent agents, human or artificial, requires the integration of environment perception, reasoning, and act...
 
-- **[Transverse envelope dynamics of beam slices in a uniform charged ellipsoidal model of the plasma bubble regime](http://arxiv.org/abs/2512.05904v1)** (2025-12)
-  - Abdul Mannan, Alessio Del Dotto, Massimo Ferrario
-  - We consider a pair of driver/witness electron bunches propagating in an ionized gas background a configuration similar to the one produced in a capillary discharge where a plasma oscillation has been ...
+- **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](http://arxiv.org/abs/2512.11614v1)** (2025-12)
+  - Björn Deiseroth, Max Henning Höth, Kristian Kersting
+  - Retrieval-augmented generation (RAG) models rely on retrieved evidence to guide large language model (LLM) generators, yet current systems treat retrieval as a weak heuristic rather than verifiable ev...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-12-08 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-12-15 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
