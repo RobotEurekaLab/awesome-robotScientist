@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Leptophilic Interactions in Nuclear Energy Density Functional Theory](http://arxiv.org/abs/2512.11770v1)** (2025-12)
-  - S. O. Kara
-  - We develop a unified theoretical framework that embeds a light leptophilic vector boson into nuclear energy density functional (EDF) theory. Starting from an underlying leptophilic gauge interaction, ...
+- **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](http://arxiv.org/abs/2512.17899v1)** (2025-12)
+  - Aditya Gahlawat, Ahmed Aboudonia, Sandeep Banik
+  - Imitation learning (IL) enables autonomous behavior by learning from expert demonstrations. While more sample-efficient than comparative alternatives like reinforcement learning, IL is sensitive to co...
 
-- **[LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems](http://arxiv.org/abs/2512.11750v1)** (2025-12)
-  - Ernesto Casablanca, Oliver Schön, Paolo Zuliani
-  - Ensuring the safety of AI-enabled systems, particularly in high-stakes domains such as autonomous driving and healthcare, has become increasingly critical. Traditional formal verification tools fall s...
+- **[Trails of clouds in binary black holes](http://arxiv.org/abs/2512.17887v1)** (2025-12)
+  - Mateja Bošković, Rafael A. Porto, Matthias Koschnitzke
+  - Superradiant instabilities of rotating black holes can give rise to long-lived bosonic clouds, offering natural laboratories to probe ultralight particles across a wide range of parameter space. The p...
 
-- **[Bench-Push: Benchmarking Pushing-based Navigation and Manipulation Tasks for Mobile Robots](http://arxiv.org/abs/2512.11736v1)** (2025-12)
-  - Ninghan Zhong, Steven Caro, Megnath Ramesh
-  - Mobile robots are increasingly deployed in cluttered environments with movable objects, posing challenges for traditional methods that prohibit interaction. In such settings, the mobile robot must go ...
+- **[On the complex nature of coronal heating](http://arxiv.org/abs/2512.17880v1)** (2025-12)
+  - C. A. Breu, D. I. Pontin, E. Priest
+  - A large part of the hot corona consists of magnetically confined, bright plasma loops. These observed loops are in turn structured into bright strands. We investigate the relationship between magnetic...
 
-- **[Architecting Large Action Models for Human-in-the-Loop Intelligent Robots](http://arxiv.org/abs/2512.11620v1)** (2025-12)
-  - Kanisorn Sangchai, Methasit Boonpun, Withawin Kraipetchara
-  - The realization of intelligent robots, operating autonomously and interacting with other intelligent agents, human or artificial, requires the integration of environment perception, reasoning, and act...
+- **[ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges](http://arxiv.org/abs/2512.17838v1)** (2025-12)
+  - Roshan Kenia, Xiaoman Zhang, Pranav Rajpurkar
+  - Autonomous coding agents built on large language models (LLMs) can now solve many general software and machine learning tasks, but they remain ineffective on complex, domain-specific scientific proble...
 
-- **[Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols](http://arxiv.org/abs/2512.11614v1)** (2025-12)
-  - Björn Deiseroth, Max Henning Höth, Kristian Kersting
-  - Retrieval-augmented generation (RAG) models rely on retrieved evidence to guide large language model (LLM) generators, yet current systems treat retrieval as a weak heuristic rather than verifiable ev...
+- **[Bridging simulation and reality in subsurface radar-based sensing: physics-guided hierarchical domain adaptation with deep adversarial learning](http://arxiv.org/abs/2512.17831v1)** (2025-12)
+  - Zixin Wang, Ishfaq Aziz, Mohamad Alipour
+  - Accurate estimation of subsurface material properties, such as soil moisture, is critical for wildfire risk assessment and precision agriculture. Ground-penetrating radar (GPR) is a non-destructive ge...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-12-15 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-12-22 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
