@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](http://arxiv.org/abs/2512.17899v1)** (2025-12)
-  - Aditya Gahlawat, Ahmed Aboudonia, Sandeep Banik
-  - Imitation learning (IL) enables autonomous behavior by learning from expert demonstrations. While more sample-efficient than comparative alternatives like reinforcement learning, IL is sensitive to co...
+- **[ProEdit: Inversion-based Editing From Prompts Done Right](http://arxiv.org/abs/2512.22118v1)** (2025-12)
+  - Zhi Ouyang, Dian Zheng, Xiao-Ming Wu
+  - Inversion-based visual editing provides an effective and training-free way to edit an image or a video based on user instructions. Existing methods typically inject source image information during the...
 
-- **[Trails of clouds in binary black holes](http://arxiv.org/abs/2512.17887v1)** (2025-12)
-  - Mateja Bošković, Rafael A. Porto, Matthias Koschnitzke
-  - Superradiant instabilities of rotating black holes can give rise to long-lived bosonic clouds, offering natural laboratories to probe ultralight particles across a wide range of parameter space. The p...
+- **[A simple realization of Weyl-Heisenberg covariant measurements](http://arxiv.org/abs/2512.22111v1)** (2025-12)
+  - Sachin Gupta, Matthew B. Weiss
+  - Informationally complete (IC) measurements are fundamental tools in quantum information processing, yet their physical implementation remains challenging. By the Naimark extension theorem, an IC measu...
 
-- **[On the complex nature of coronal heating](http://arxiv.org/abs/2512.17880v1)** (2025-12)
-  - C. A. Breu, D. I. Pontin, E. Priest
-  - A large part of the hot corona consists of magnetically confined, bright plasma loops. These observed loops are in turn structured into bright strands. We investigate the relationship between magnetic...
+- **[Centralization and Stability in Formal Constitutions](http://arxiv.org/abs/2512.22051v1)** (2025-12)
+  - Yotam Gafni
+  - Consider a social-choice function (SCF) is chosen to decide votes in a formal system, including votes to replace the voting method itself. Agents vote according to their ex-ante preference between the...
 
-- **[ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges](http://arxiv.org/abs/2512.17838v1)** (2025-12)
-  - Roshan Kenia, Xiaoman Zhang, Pranav Rajpurkar
-  - Autonomous coding agents built on large language models (LLMs) can now solve many general software and machine learning tasks, but they remain ineffective on complex, domain-specific scientific proble...
+- **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](http://arxiv.org/abs/2512.22046v1)** (2025-12)
+  - Zongmin Zhang, Zhen Sun, Yifan Liao
+  - Prompt-driven Video Segmentation Foundation Models (VSFMs) such as SAM2 are increasingly deployed in applications like autonomous driving and digital pathology, raising concerns about backdoor threats...
 
-- **[Bridging simulation and reality in subsurface radar-based sensing: physics-guided hierarchical domain adaptation with deep adversarial learning](http://arxiv.org/abs/2512.17831v1)** (2025-12)
-  - Zixin Wang, Ishfaq Aziz, Mohamad Alipour
-  - Accurate estimation of subsurface material properties, such as soil moisture, is critical for wildfire risk assessment and precision agriculture. Ground-penetrating radar (GPR) is a non-destructive ge...
+- **[RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring](http://arxiv.org/abs/2512.21975v1)** (2025-12)
+  - Zhuoyu Wu, Wenhui Ou, Qiawei Zheng
+  - Motion blur caused by camera or object movement severely degrades image quality and poses challenges for real-time applications such as autonomous driving, UAV perception, and medical imaging. In this...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-12-22 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2025-12-29 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
