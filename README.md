@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2025-12**: Advances in self-driving labs and autonomous research continue
-- **2025-12**: New AI models for scientific hypothesis generation and testing
-- **2025-12**: Integration of robotics and machine learning in laboratory automation
+- **2026-01**: Advances in self-driving labs and autonomous research continue
+- **2026-01**: New AI models for scientific hypothesis generation and testing
+- **2026-01**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[ProEdit: Inversion-based Editing From Prompts Done Right](http://arxiv.org/abs/2512.22118v1)** (2025-12)
-  - Zhi Ouyang, Dian Zheng, Xiao-Ming Wu
-  - Inversion-based visual editing provides an effective and training-free way to edit an image or a video based on user instructions. Existing methods typically inject source image information during the...
+- **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](http://arxiv.org/abs/2601.00753v1)** (2026-01)
+  - Dao Sy Duy Minh, Huynh Trung Kiet, Tran Chi Nguyen
+  - As autonomous AI agents transition from code completion tools to full-fledged teammates capable of opening pull requests (PRs) at scale, software maintainers face a new challenge: not just reviewing c...
 
-- **[A simple realization of Weyl-Heisenberg covariant measurements](http://arxiv.org/abs/2512.22111v1)** (2025-12)
-  - Sachin Gupta, Matthew B. Weiss
-  - Informationally complete (IC) measurements are fundamental tools in quantum information processing, yet their physical implementation remains challenging. By the Naimark extension theorem, an IC measu...
+- **[Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI](http://arxiv.org/abs/2601.00742v1)** (2026-01)
+  - Turab Lookman, YuJie Liu, Zhibin Gao
+  - This perspective explores the evolution of materials informatics, from its foundational roots in physics and information theory to its maturation through artificial intelligence (AI). We trace the fie...
 
-- **[Centralization and Stability in Formal Constitutions](http://arxiv.org/abs/2512.22051v1)** (2025-12)
-  - Yotam Gafni
-  - Consider a social-choice function (SCF) is chosen to decide votes in a formal system, including votes to replace the voting method itself. Agents vote according to their ex-ante preference between the...
+- **[Bayesian Inverse Games with High-Dimensional Multi-Modal Observations](http://arxiv.org/abs/2601.00696v1)** (2026-01)
+  - Yash Jain, Xinjie Liu, Lasse Peters
+  - Many multi-agent interaction scenarios can be naturally modeled as noncooperative games, where each agent's decisions depend on others' future actions. However, deploying game-theoretic planners for a...
 
-- **[Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models](http://arxiv.org/abs/2512.22046v1)** (2025-12)
-  - Zongmin Zhang, Zhen Sun, Yifan Liao
-  - Prompt-driven Video Segmentation Foundation Models (VSFMs) such as SAM2 are increasingly deployed in applications like autonomous driving and digital pathology, raising concerns about backdoor threats...
+- **[Experimental exclusion of a generalized Károlyházy gravity-induced decoherence model](http://arxiv.org/abs/2601.00651v1)** (2026-01)
+  - Nicola Bortolotti, Kristian Piscicchia, Matthias Laubenstein
+  - We report new experimental constraints on the generalized version of the gravity-induced decoherence model originally proposed by Károlyházy. Using data collected by the VIP Collaboration at the INFN ...
 
-- **[RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring](http://arxiv.org/abs/2512.21975v1)** (2025-12)
-  - Zhuoyu Wu, Wenhui Ou, Qiawei Zheng
-  - Motion blur caused by camera or object movement severely degrades image quality and poses challenges for real-time applications such as autonomous driving, UAV perception, and medical imaging. In this...
+- **[Turbulence is ineffective in causing raindrop growth in polluted clouds](http://arxiv.org/abs/2601.00637v1)** (2026-01)
+  - K. Shri Vignesh, Ambedkar Sanket Sukdeo, P. V. Sruthibhai
+  - Aerosol-cloud interactions represent the largest uncertainty in climate-change assessment, and while cloud turbulence is considered crucial for droplet growth, its precise role remains unclear. Our la...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2025-12-29 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-01-05 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
