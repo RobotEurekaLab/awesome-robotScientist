@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Early-Stage Prediction of Review Effort in AI-Generated Pull Requests](http://arxiv.org/abs/2601.00753v1)** (2026-01)
-  - Dao Sy Duy Minh, Huynh Trung Kiet, Tran Chi Nguyen
-  - As autonomous AI agents transition from code completion tools to full-fledged teammates capable of opening pull requests (PRs) at scale, software maintainers face a new challenge: not just reviewing c...
+- **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](http://arxiv.org/abs/2601.06007v1)** (2026-01)
+  - Elias Lumer, Faheem Nizar, Akshaya Jangiti
+  - Recent advancements in Large Language Model (LLM) agents have enabled complex multi-turn agentic tasks requiring extensive tool calling, where conversations can span dozens of API calls with increasin...
 
-- **[Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI](http://arxiv.org/abs/2601.00742v1)** (2026-01)
-  - Turab Lookman, YuJie Liu, Zhibin Gao
-  - This perspective explores the evolution of materials informatics, from its foundational roots in physics and information theory to its maturation through artificial intelligence (AI). We trace the fie...
+- **[Optimization of the metal-dielectric metasurface unit cell for sensitivity enhancement in determination of IgG concentration in solutions](http://arxiv.org/abs/2601.05979v1)** (2026-01)
+  - K. S. Kuznetsova, V. A. Pashynska, Z. E. Eremenko
+  - This study focuses on developing a metal-dielectric sensor structure with optimized unit cell geometry for determination of protein Immunoglobulin G (IgG) concentration in aqueous solutions. The resea...
 
-- **[Bayesian Inverse Games with High-Dimensional Multi-Modal Observations](http://arxiv.org/abs/2601.00696v1)** (2026-01)
-  - Yash Jain, Xinjie Liu, Lasse Peters
-  - Many multi-agent interaction scenarios can be naturally modeled as noncooperative games, where each agent's decisions depend on others' future actions. However, deploying game-theoretic planners for a...
+- **[A Critical Examination of Active Learning Workflows in Materials Science](http://arxiv.org/abs/2601.05946v1)** (2026-01)
+  - Akhil S. Nair, Lucas Foppa
+  - Active learning (AL) plays a critical role in materials science, enabling applications such as the construction of machine-learning interatomic potentials for atomistic simulations and the operation o...
 
-- **[Experimental exclusion of a generalized Károlyházy gravity-induced decoherence model](http://arxiv.org/abs/2601.00651v1)** (2026-01)
-  - Nicola Bortolotti, Kristian Piscicchia, Matthias Laubenstein
-  - We report new experimental constraints on the generalized version of the gravity-induced decoherence model originally proposed by Károlyházy. Using data collected by the VIP Collaboration at the INFN ...
+- **[Reverse segregation and self-organization in inclined chute flows of bidisperse granular mixtures](http://arxiv.org/abs/2601.05940v1)** (2026-01)
+  - Joseph M. Monti, Joel T. Clemmer, Ishan Srivastava
+  - In the usual segregation scenario for stable inclined chute flows of bidisperse mixtures of fine and coarse spherical particles, coarse particles rise toward the free surface, forming a coarse-rich re...
 
-- **[Turbulence is ineffective in causing raindrop growth in polluted clouds](http://arxiv.org/abs/2601.00637v1)** (2026-01)
-  - K. Shri Vignesh, Ambedkar Sanket Sukdeo, P. V. Sruthibhai
-  - Aerosol-cloud interactions represent the largest uncertainty in climate-change assessment, and while cloud turbulence is considered crucial for droplet growth, its precise role remains unclear. Our la...
+- **[Can We Predict Before Executing Machine Learning Agents?](http://arxiv.org/abs/2601.05930v1)** (2026-01)
+  - Jingsheng Zheng, Jintian Zhang, Yujie Luo
+  - Autonomous machine learning agents have revolutionized scientific discovery, yet they remain constrained by a Generate-Execute-Feedback paradigm. Previous approaches suffer from a severe Execution Bot...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-01-05 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-01-12 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
