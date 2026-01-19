@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](http://arxiv.org/abs/2601.06007v1)** (2026-01)
-  - Elias Lumer, Faheem Nizar, Akshaya Jangiti
-  - Recent advancements in Large Language Model (LLM) agents have enabled complex multi-turn agentic tasks requiring extensive tool calling, where conversations can span dozens of API calls with increasin...
+- **[Generative Scenario Rollouts for End-to-End Autonomous Driving](http://arxiv.org/abs/2601.11475v1)** (2026-01)
+  - Rajeev Yasarla, Deepti Hegde, Shizhong Han
+  - Vision-Language-Action (VLA) models are emerging as highly effective planning models for end-to-end autonomous driving systems. However, current works mostly rely on imitation learning from sparse tra...
 
-- **[Optimization of the metal-dielectric metasurface unit cell for sensitivity enhancement in determination of IgG concentration in solutions](http://arxiv.org/abs/2601.05979v1)** (2026-01)
-  - K. S. Kuznetsova, V. A. Pashynska, Z. E. Eremenko
-  - This study focuses on developing a metal-dielectric sensor structure with optimized unit cell geometry for determination of protein Immunoglobulin G (IgG) concentration in aqueous solutions. The resea...
+- **[SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction](http://arxiv.org/abs/2601.11396v1)** (2026-01)
+  - Hanlin Wu, Pengfei Lin, Ehsan Javanmardi
+  - As autonomous driving moves toward full scene understanding, 3D semantic occupancy prediction has emerged as a crucial perception task, offering voxel-level semantics beyond traditional detection and ...
 
-- **[A Critical Examination of Active Learning Workflows in Materials Science](http://arxiv.org/abs/2601.05946v1)** (2026-01)
-  - Akhil S. Nair, Lucas Foppa
-  - Active learning (AL) plays a critical role in materials science, enabling applications such as the construction of machine-learning interatomic potentials for atomistic simulations and the operation o...
+- **[Nanofabricated torsion pendulums for tabletop gravity experiments](http://arxiv.org/abs/2601.11366v1)** (2026-01)
+  - Jack Manley, Charles A. Condos, Zachary Fegley
+  - Measurement of mutual gravitation on laboratory scales is an outstanding challenge and a prerequisite to probing theories of quantum gravity. A leading technology in tabletop gravity experiments is th...
 
-- **[Reverse segregation and self-organization in inclined chute flows of bidisperse granular mixtures](http://arxiv.org/abs/2601.05940v1)** (2026-01)
-  - Joseph M. Monti, Joel T. Clemmer, Ishan Srivastava
-  - In the usual segregation scenario for stable inclined chute flows of bidisperse mixtures of fine and coarse spherical particles, coarse particles rise toward the free surface, forming a coarse-rich re...
+- **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](http://arxiv.org/abs/2601.11352v1)** (2026-01)
+  - Akhilesh Raj, Swann Perarnau, Aniruddha Gokhale
+  - Energy efficiency has become an integral aspect of modern computing infrastructure design, impacting the performance, cost, scalability, and durability of production systems. The incorporation of powe...
 
-- **[Can We Predict Before Executing Machine Learning Agents?](http://arxiv.org/abs/2601.05930v1)** (2026-01)
-  - Jingsheng Zheng, Jintian Zhang, Yujie Luo
-  - Autonomous machine learning agents have revolutionized scientific discovery, yet they remain constrained by a Generate-Execute-Feedback paradigm. Previous approaches suffer from a severe Execution Bot...
+- **[Octave-spanning 10-GHz Er-doped solid-state optical frequency comb](http://arxiv.org/abs/2601.11346v1)** (2026-01)
+  - Niccolò S. Barberio, Francesco Canella, Andrea Pertoldi
+  - Optical frequency combs provide a phase-coherent interface between optical and microwave domains, underpinning advances in precision metrology, spectroscopy, and time-frequency transfer. Most conventi...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-01-12 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-01-19 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
