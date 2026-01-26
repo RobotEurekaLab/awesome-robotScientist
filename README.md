@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Generative Scenario Rollouts for End-to-End Autonomous Driving](http://arxiv.org/abs/2601.11475v1)** (2026-01)
-  - Rajeev Yasarla, Deepti Hegde, Shizhong Han
-  - Vision-Language-Action (VLA) models are emerging as highly effective planning models for end-to-end autonomous driving systems. However, current works mostly rely on imitation learning from sparse tra...
+- **[Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning](http://arxiv.org/abs/2601.16968v1)** (2026-01)
+  - Andrzej Gajewski, Robert Okuła, Marcin Pawłowski
+  - Quantum entanglement distributed via satellites enable global-scale quantum communication. However, onboard sources are susceptible to misalignment due to dynamical orbital conditions. Here, we presen...
 
-- **[SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction](http://arxiv.org/abs/2601.11396v1)** (2026-01)
-  - Hanlin Wu, Pengfei Lin, Ehsan Javanmardi
-  - As autonomous driving moves toward full scene understanding, 3D semantic occupancy prediction has emerged as a crucial perception task, offering voxel-level semantics beyond traditional detection and ...
+- **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](http://arxiv.org/abs/2601.16964v1)** (2026-01)
+  - Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah
+  - The rapid advancement of large language models (LLMs) has sparked growing interest in their integration into autonomous systems for reasoning-driven perception, planning, and decision-making. However,...
 
-- **[Nanofabricated torsion pendulums for tabletop gravity experiments](http://arxiv.org/abs/2601.11366v1)** (2026-01)
-  - Jack Manley, Charles A. Condos, Zachary Fegley
-  - Measurement of mutual gravitation on laboratory scales is an outstanding challenge and a prerequisite to probing theories of quantum gravity. A leading technology in tabletop gravity experiments is th...
+- **[Neutron spectrum measurement in the Yemi underground laboratory](http://arxiv.org/abs/2601.16928v1)** (2026-01)
+  - Joong Hyun Kim, Sinchul Kang, HyeoungWoo Park
+  - We report on the measurement of neutron energy spectra at the newly established Yemi Underground Laboratory (Yemilab) in the Republic of Korea, designed to host dark matter and rare-event search exper...
 
-- **[Offline Reinforcement-Learning-Based Power Control for Application-Agnostic Energy Efficiency](http://arxiv.org/abs/2601.11352v1)** (2026-01)
-  - Akhilesh Raj, Swann Perarnau, Aniruddha Gokhale
-  - Energy efficiency has become an integral aspect of modern computing infrastructure design, impacting the performance, cost, scalability, and durability of production systems. The incorporation of powe...
+- **[PocketDVDNet: Realtime Video Denoising for Real Camera Noise](http://arxiv.org/abs/2601.16780v1)** (2026-01)
+  - Crispian Morris, Imogen Dexter, Fan Zhang
+  - Live video denoising under realistic, multi-component sensor noise remains challenging for applications such as autofocus, autonomous driving, and surveillance. We propose PocketDVDNet, a lightweight ...
 
-- **[Octave-spanning 10-GHz Er-doped solid-state optical frequency comb](http://arxiv.org/abs/2601.11346v1)** (2026-01)
-  - Niccolò S. Barberio, Francesco Canella, Andrea Pertoldi
-  - Optical frequency combs provide a phase-coherent interface between optical and microwave domains, underpinning advances in precision metrology, spectroscopy, and time-frequency transfer. Most conventi...
+- **[Quantum correlation of neutral charmed mesons at BESIII](http://arxiv.org/abs/2601.16768v1)** (2026-01)
+  - Alex Gilman
+  - BESIII has recently accumulated a large data sample near the $ψ(3770)$ production threshold corresponding to an integrated luminosity of $20	ext{ fb}^{-1}$. Neutral $D^0ar{D}^0$ pairs produced at t...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-01-19 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-01-26 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
