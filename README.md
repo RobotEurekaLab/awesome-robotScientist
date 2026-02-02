@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2026-01**: Advances in self-driving labs and autonomous research continue
-- **2026-01**: New AI models for scientific hypothesis generation and testing
-- **2026-01**: Integration of robotics and machine learning in laboratory automation
+- **2026-02**: Advances in self-driving labs and autonomous research continue
+- **2026-02**: New AI models for scientific hypothesis generation and testing
+- **2026-02**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning](http://arxiv.org/abs/2601.16968v1)** (2026-01)
-  - Andrzej Gajewski, Robert Okuła, Marcin Pawłowski
-  - Quantum entanglement distributed via satellites enable global-scale quantum communication. However, onboard sources are susceptible to misalignment due to dynamical orbital conditions. Here, we presen...
+- **[FOCUS: DLLMs Know How to Tame Their Compute Bound](http://arxiv.org/abs/2601.23278v1)** (2026-01)
+  - Kaihua Liang, Xin Tan, An Zhong
+  - Diffusion Large Language Models (DLLMs) offer a compelling alternative to Auto-Regressive models, but their deployment is constrained by high decoding cost. In this work, we identify a key inefficienc...
 
-- **[AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems](http://arxiv.org/abs/2601.16964v1)** (2026-01)
-  - Mohamed Amine Ferrag, Abderrahmane Lakas, Merouane Debbah
-  - The rapid advancement of large language models (LLMs) has sparked growing interest in their integration into autonomous systems for reasoning-driven perception, planning, and decision-making. However,...
+- **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](http://arxiv.org/abs/2601.23266v1)** (2026-01)
+  - Seyed Ahmad Hosseini Miangoleh, Amin Jalal Aghdasian, Farzaneh Abdollahi
+  - This paper proposes a novel inverse reinforcement learning framework using a diffusion-based adaptive lookahead planner (IRL-DAL) for autonomous vehicles. Training begins with imitation from an expert...
 
-- **[Neutron spectrum measurement in the Yemi underground laboratory](http://arxiv.org/abs/2601.16928v1)** (2026-01)
-  - Joong Hyun Kim, Sinchul Kang, HyeoungWoo Park
-  - We report on the measurement of neutron energy spectra at the newly established Yemi Underground Laboratory (Yemilab) in the Republic of Korea, designed to host dark matter and rare-event search exper...
+- **[PaperBanana: Automating Academic Illustration for AI Scientists](http://arxiv.org/abs/2601.23265v1)** (2026-01)
+  - Dawei Zhu, Rui Meng, Yale Song
+  - Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...
 
-- **[PocketDVDNet: Realtime Video Denoising for Real Camera Noise](http://arxiv.org/abs/2601.16780v1)** (2026-01)
-  - Crispian Morris, Imogen Dexter, Fan Zhang
-  - Live video denoising under realistic, multi-component sensor noise remains challenging for applications such as autofocus, autonomous driving, and surveillance. We propose PocketDVDNet, a lightweight ...
+- **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](http://arxiv.org/abs/2601.23254v1)** (2026-01)
+  - Baoyi Wang, Xingliang Wang, Guochang Li
+  - Repository-level code completion remains challenging for large language models (LLMs) due to cross-file dependencies and limited context windows. Prior work addresses this challenge using Retrieval-Au...
 
-- **[Quantum correlation of neutral charmed mesons at BESIII](http://arxiv.org/abs/2601.16768v1)** (2026-01)
-  - Alex Gilman
-  - BESIII has recently accumulated a large data sample near the $ψ(3770)$ production threshold corresponding to an integrated luminosity of $20	ext{ fb}^{-1}$. Neutral $D^0ar{D}^0$ pairs produced at t...
+- **[Toward Digital Twins in 3D IC Packaging: A Critical Review of Physics, Data, and Hybrid Architectures](http://arxiv.org/abs/2601.23226v1)** (2026-01)
+  - Gourab Datta, Sarah Safura Sharif, Yaser Mike Banad
+  - Three-dimensional integrated circuit (3D IC) pack-aging and heterogeneous integration have emerged as central pillars of contemporary semiconductor scaling. Yet, the multi-physics coupling inherent to...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-01-26 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-02-02 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
