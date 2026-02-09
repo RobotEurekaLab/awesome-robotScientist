@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[FOCUS: DLLMs Know How to Tame Their Compute Bound](http://arxiv.org/abs/2601.23278v1)** (2026-01)
-  - Kaihua Liang, Xin Tan, An Zhong
-  - Diffusion Large Language Models (DLLMs) offer a compelling alternative to Auto-Regressive models, but their deployment is constrained by high decoding cost. In this work, we identify a key inefficienc...
+- **[Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure](http://arxiv.org/abs/2602.06926v1)** (2026-02)
+  - Hannah T. Rüdisser, Emma E. Davies, Ute V. Amerstorfer
+  - We present an automated pipeline for operational short-term forecasting of coronal mass ejection (CME) magnetic field structure at L1, coupling arrival time prediction, in situ detection, and iterativ...
 
-- **[IRL-DAL: Safe and Adaptive Trajectory Planning for Autonomous Driving via Energy-Guided Diffusion Models](http://arxiv.org/abs/2601.23266v1)** (2026-01)
-  - Seyed Ahmad Hosseini Miangoleh, Amin Jalal Aghdasian, Farzaneh Abdollahi
-  - This paper proposes a novel inverse reinforcement learning framework using a diffusion-based adaptive lookahead planner (IRL-DAL) for autonomous vehicles. Training begins with imitation from an expert...
+- **[Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing](http://arxiv.org/abs/2602.06925v1)** (2026-02)
+  - Andrei-Carlo Papuc, Lasse Peters, Sihao Sun
+  - Autonomous drone racing pushes the boundaries of high-speed motion planning and multi-agent strategic decision-making. Success in this domain requires drones not only to navigate at their limits but a...
 
-- **[PaperBanana: Automating Academic Illustration for AI Scientists](http://arxiv.org/abs/2601.23265v1)** (2026-01)
-  - Dawei Zhu, Rui Meng, Yale Song
-  - Despite rapid advances in autonomous AI scientists powered by language models, generating publication-ready illustrations remains a labor-intensive bottleneck in the research workflow. To lift this bu...
+- **[Directing Space: Rehearsing Architecture as Performer with Explainable AI](http://arxiv.org/abs/2602.06915v1)** (2026-02)
+  - Pavlos Panagiotidis, Jocelyn Spence, Nils Jaeger
+  - As AI systems increasingly become embedded in interactive and im-mersive artistic environments, artists and technologists are discovering new opportunities to engage with their interpretive and autono...
 
-- **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](http://arxiv.org/abs/2601.23254v1)** (2026-01)
-  - Baoyi Wang, Xingliang Wang, Guochang Li
-  - Repository-level code completion remains challenging for large language models (LLMs) due to cross-file dependencies and limited context windows. Prior work addresses this challenge using Retrieval-Au...
+- **[Dissipative Kerr Soliton Self-Balancing from Kerr-Induced Synchronization](http://arxiv.org/abs/2602.06896v1)** (2026-02)
+  - Pradyoth Shandilya, Kartik Srinivasan, Curtis R. Menyuk
+  - Integrated frequency comb sources are a key enabling technology for frequency metrology applications. Their on-chip integration promises to bring metrology capacity outside of the lab, particularly si...
 
-- **[Toward Digital Twins in 3D IC Packaging: A Critical Review of Physics, Data, and Hybrid Architectures](http://arxiv.org/abs/2601.23226v1)** (2026-01)
-  - Gourab Datta, Sarah Safura Sharif, Yaser Mike Banad
-  - Three-dimensional integrated circuit (3D IC) pack-aging and heterogeneous integration have emerged as central pillars of contemporary semiconductor scaling. Yet, the multi-physics coupling inherent to...
+- **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](http://arxiv.org/abs/2602.06855v1)** (2026-02)
+  - Alisia Lupidi, Bhavul Gauri, Thomas Simon Foster
+  - LLM agents hold significant promise for advancing scientific research. To accelerate this progress, we introduce AIRS-Bench (the AI Research Science Benchmark), a suite of 20 tasks sourced from state-...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-02-02 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-02-09 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
