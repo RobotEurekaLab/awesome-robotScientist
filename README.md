@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Towards a Fully Automated Pipeline for Short-Term Forecasting of In Situ Coronal Mass Ejection Magnetic Field Structure](http://arxiv.org/abs/2602.06926v1)** (2026-02)
-  - Hannah T. Rüdisser, Emma E. Davies, Ute V. Amerstorfer
-  - We present an automated pipeline for operational short-term forecasting of coronal mass ejection (CME) magnetic field structure at L1, coupling arrival time prediction, in situ detection, and iterativ...
+- **[Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation](http://arxiv.org/abs/2602.13179v1)** (2026-02)
+  - Jiankun Zhang, Shenglai Zeng, Kai Guo
+  - Multimodal Retrieval-Augmented Generation (MRAG) has emerged as a key paradigm for grounding MLLMs with external knowledge. While query pre-processing (e.g., rewriting) is standard in text-based RAG, ...
 
-- **[Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing](http://arxiv.org/abs/2602.06925v1)** (2026-02)
-  - Andrei-Carlo Papuc, Lasse Peters, Sihao Sun
-  - Autonomous drone racing pushes the boundaries of high-speed motion planning and multi-agent strategic decision-making. Success in this domain requires drones not only to navigate at their limits but a...
+- **[Accuracy Comes at a Cost: Optimal Localisation Against a Flow](http://arxiv.org/abs/2602.13173v1)** (2026-02)
+  - Till Welker, Patrick Pietzonka
+  - How much work does it cost for a propelled particle to stay localised near a stationary target, defying both thermal noise and a constant flow that would carry it away? We study the control of such a ...
 
-- **[Directing Space: Rehearsing Architecture as Performer with Explainable AI](http://arxiv.org/abs/2602.06915v1)** (2026-02)
-  - Pavlos Panagiotidis, Jocelyn Spence, Nils Jaeger
-  - As AI systems increasingly become embedded in interactive and im-mersive artistic environments, artists and technologists are discovering new opportunities to engage with their interpretive and autono...
+- **[Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments](http://arxiv.org/abs/2602.13159v1)** (2026-02)
+  - Ashwin Satish Menon, Eric R. Damm, Eli S. Lancaster
+  - Due to sensor limitations, environments that off-road mobile robots operate in are often only partially observable. As the robots move throughout the environment and towards their goal, the optimal ro...
 
-- **[Dissipative Kerr Soliton Self-Balancing from Kerr-Induced Synchronization](http://arxiv.org/abs/2602.06896v1)** (2026-02)
-  - Pradyoth Shandilya, Kartik Srinivasan, Curtis R. Menyuk
-  - Integrated frequency comb sources are a key enabling technology for frequency metrology applications. Their on-chip integration promises to bring metrology capacity outside of the lab, particularly si...
+- **[In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach](http://arxiv.org/abs/2602.13156v1)** (2026-02)
+  - Yiran Gao, Kim Hammar, Tao Li
+  - Rapidly evolving cyberattacks demand incident response systems that can autonomously learn and adapt to changing threats. Prior work has extensively explored the reinforcement learning approach, which...
 
-- **[AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents](http://arxiv.org/abs/2602.06855v1)** (2026-02)
-  - Alisia Lupidi, Bhavul Gauri, Thomas Simon Foster
-  - LLM agents hold significant promise for advancing scientific research. To accelerate this progress, we introduce AIRS-Bench (the AI Research Science Benchmark), a suite of 20 tasks sourced from state-...
+- **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](http://arxiv.org/abs/2602.13140v1)** (2026-02)
+  - Pingzhi Li, Hongxuan Li, Zirui Liu
+  - Graph neural network (GNN) potentials such as SchNet improve the accuracy and transferability of molecular dynamics (MD) simulation by learning many-body interactions, but remain slower than classical...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-02-09 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-02-16 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
