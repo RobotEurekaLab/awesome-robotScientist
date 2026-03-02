@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2026-02**: Advances in self-driving labs and autonomous research continue
-- **2026-02**: New AI models for scientific hypothesis generation and testing
-- **2026-02**: Integration of robotics and machine learning in laboratory automation
+- **2026-03**: Advances in self-driving labs and autonomous research continue
+- **2026-03**: New AI models for scientific hypothesis generation and testing
+- **2026-03**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation](http://arxiv.org/abs/2602.13179v1)** (2026-02)
-  - Jiankun Zhang, Shenglai Zeng, Kai Guo
-  - Multimodal Retrieval-Augmented Generation (MRAG) has emerged as a key paradigm for grounding MLLMs with external knowledge. While query pre-processing (e.g., rewriting) is standard in text-based RAG, ...
+- **[Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403](http://arxiv.org/abs/2602.24255v1)** (2026-02)
+  - Alexander Plavin, Alexander Pushkarev, Yuri Kovalev
+  - We report the first unambiguous detection of refractive substructure in an active galactic nucleus (AGN) using ground-based Very Long Baseline Interferometry (VLBI). Our analysis of TXS 2005+403 - obs...
 
-- **[Accuracy Comes at a Cost: Optimal Localisation Against a Flow](http://arxiv.org/abs/2602.13173v1)** (2026-02)
-  - Till Welker, Patrick Pietzonka
-  - How much work does it cost for a propelled particle to stay localised near a stationary target, defying both thermal noise and a constant flow that would carry it away? We study the control of such a ...
+- **[Resilient Strategies for Stochastic Systems: How Much Does It Take to Break a Winning Strategy?](http://arxiv.org/abs/2602.24191v1)** (2026-02)
+  - Kush Grover, Markel Zubia, Debraj Chakraborty
+  - We study the problem of resilient strategies in the presence of uncertainty. Resilient strategies enable an agent to make decisions that are robust against disturbances. In particular, we are interest...
 
-- **[Temporally-Sampled Efficiently Adaptive State Lattices for Autonomous Ground Robot Navigation in Partially Observed Environments](http://arxiv.org/abs/2602.13159v1)** (2026-02)
-  - Ashwin Satish Menon, Eric R. Damm, Eli S. Lancaster
-  - Due to sensor limitations, environments that off-road mobile robots operate in are often only partially observable. As the robots move throughout the environment and towards their goal, the optimal ro...
+- **[Humanoid Robots as First Assistants in Endoscopic Surgery](http://arxiv.org/abs/2602.24156v1)** (2026-02)
+  - Sue Min Cho, Jan Emily Mangulabnan, Han Zhang
+  - Humanoid robots have become a focal point of technological ambition, with claims of surgical capability within years in mainstream discourse. These projections are aspirational yet lack empirical grou...
 
-- **[In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach](http://arxiv.org/abs/2602.13156v1)** (2026-02)
-  - Yiran Gao, Kim Hammar, Tao Li
-  - Rapidly evolving cyberattacks demand incident response systems that can autonomously learn and adapt to changing threats. Prior work has extensively explored the reinforcement learning approach, which...
+- **[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](http://arxiv.org/abs/2602.24142v1)** (2026-02)
+  - Yuxuan Liu, Weikai Xu, Kun Huang
+  - Mobile Agents can autonomously execute user instructions, which requires hybrid-capabilities reasoning, including screen summary, subtask planning, action decision and action function. However, existi...
 
-- **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](http://arxiv.org/abs/2602.13140v1)** (2026-02)
-  - Pingzhi Li, Hongxuan Li, Zirui Liu
-  - Graph neural network (GNN) potentials such as SchNet improve the accuracy and transferability of molecular dynamics (MD) simulation by learning many-body interactions, but remain slower than classical...
+- **[AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation](http://arxiv.org/abs/2602.24134v1)** (2026-02)
+  - Zhengren Wang, Dongsheng Ma, Huaping Zhong
+  - The expansion of retrieval-augmented generation (RAG) into multimodal domains has intensified the challenge for processing complex visual documents, such as financial reports. While page-level chunkin...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-02-16 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-03-02 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
