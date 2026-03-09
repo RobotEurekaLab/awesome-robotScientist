@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403](http://arxiv.org/abs/2602.24255v1)** (2026-02)
-  - Alexander Plavin, Alexander Pushkarev, Yuri Kovalev
-  - We report the first unambiguous detection of refractive substructure in an active galactic nucleus (AGN) using ground-based Very Long Baseline Interferometry (VLBI). Our analysis of TXS 2005+403 - obs...
+- **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](http://arxiv.org/abs/2603.06576v1)** (2026-03)
+  - Thomas Monninger, Shaoyuan Xie, Qi Alfred Chen
+  - The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling...
 
-- **[Resilient Strategies for Stochastic Systems: How Much Does It Take to Break a Winning Strategy?](http://arxiv.org/abs/2602.24191v1)** (2026-02)
-  - Kush Grover, Markel Zubia, Debraj Chakraborty
-  - We study the problem of resilient strategies in the presence of uncertainty. Resilient strategies enable an agent to make decisions that are robust against disturbances. In particular, we are interest...
+- **[SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation](http://arxiv.org/abs/2603.06572v1)** (2026-03)
+  - Vishal Thengane, Zhaochong An, Tianjin Huang
+  - Incremental Few-Shot (IFS) segmentation aims to learn new categories over time from only a few annotations. Although widely studied in 2D, it remains underexplored for 3D point clouds. Existing method...
 
-- **[Humanoid Robots as First Assistants in Endoscopic Surgery](http://arxiv.org/abs/2602.24156v1)** (2026-02)
-  - Sue Min Cho, Jan Emily Mangulabnan, Han Zhang
-  - Humanoid robots have become a focal point of technological ambition, with claims of surgical capability within years in mainstream discourse. These projections are aspirational yet lack empirical grou...
+- **[Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving](http://arxiv.org/abs/2603.06544v1)** (2026-03)
+  - Yuhan Zhou, Mehri Sattari, Haihua Chen
+  - Next-generation autonomous vehicles (AVs) rely on large volumes of multisource and multimodal ($M^2$) data to support real-time decision-making. In practice, data quality (DQ) varies across sources an...
 
-- **[CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](http://arxiv.org/abs/2602.24142v1)** (2026-02)
-  - Yuxuan Liu, Weikai Xu, Kun Huang
-  - Mobile Agents can autonomously execute user instructions, which requires hybrid-capabilities reasoning, including screen summary, subtask planning, action decision and action function. However, existi...
+- **[Hybrid quantum-classical simulations of semiclassical gravity](http://arxiv.org/abs/2603.06511v1)** (2026-03)
+  - Carlos Fulgado-Claudio, Daniel González-Cuadra, Jose Beltrán Jiménez
+  - We propose a hybrid quantum-classical algorithm for the simulation of real-time dynamics in interacting quantum field theories coupled to classical fields, focusing on the self-consistent estimation o...
 
-- **[AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation](http://arxiv.org/abs/2602.24134v1)** (2026-02)
-  - Zhengren Wang, Dongsheng Ma, Huaping Zhong
-  - The expansion of retrieval-augmented generation (RAG) into multimodal domains has intensified the challenge for processing complex visual documents, such as financial reports. While page-level chunkin...
+- **[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](http://arxiv.org/abs/2603.06507v1)** (2026-03)
+  - Hila Chefer, Patrick Esser, Dominik Lorenz
+  - Strong semantic representations improve the convergence and generation quality of diffusion and flow models. Existing approaches largely rely on external models, which require separate training, opera...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-03-02 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-03-09 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
