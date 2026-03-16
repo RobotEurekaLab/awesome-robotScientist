@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](http://arxiv.org/abs/2603.06576v1)** (2026-03)
-  - Thomas Monninger, Shaoyuan Xie, Qi Alfred Chen
-  - The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling...
+- **[Semantic Invariance in Agentic AI](http://arxiv.org/abs/2603.13173v1)** (2026-03)
+  - I. de Zarzà, J. de Curtò, Jordi Cabot
+  - Large Language Models (LLMs) increasingly serve as autonomous reasoning agents in decision support, scientific problem-solving, and multi-agent coordination systems. However, deploying LLM agents in c...
 
-- **[SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation](http://arxiv.org/abs/2603.06572v1)** (2026-03)
-  - Vishal Thengane, Zhaochong An, Tianjin Huang
-  - Incremental Few-Shot (IFS) segmentation aims to learn new categories over time from only a few annotations. Although widely studied in 2D, it remains underexplored for 3D point clouds. Existing method...
+- **[Connecting JWST Silicate Cloud Observations to Exoplanet Cloud Microphysics with Nimbus](http://arxiv.org/abs/2603.13167v1)** (2026-03)
+  - Sven Kiefer, Caroline V. Morley, Melanie Rowland
+  - The unprecedented accuracy of JWST has led to the detection of silicate clouds in exoplanet atmospheres, allowing for the first time to probe cloud formation in extreme environments. While parametrize...
 
-- **[Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving](http://arxiv.org/abs/2603.06544v1)** (2026-03)
-  - Yuhan Zhou, Mehri Sattari, Haihua Chen
-  - Next-generation autonomous vehicles (AVs) rely on large volumes of multisource and multimodal ($M^2$) data to support real-time decision-making. In practice, data quality (DQ) varies across sources an...
+- **[Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents](http://arxiv.org/abs/2603.13151v1)** (2026-03)
+  - Zongwei Li, Wenkai Li, Xiaoqi Li
+  - OpenClaw-like agents offer substantial productivity benefits, yet they are insecure by default because they combine untrusted inputs, autonomous action, extensibility, and privileged system access wit...
 
-- **[Hybrid quantum-classical simulations of semiclassical gravity](http://arxiv.org/abs/2603.06511v1)** (2026-03)
-  - Carlos Fulgado-Claudio, Daniel González-Cuadra, Jose Beltrán Jiménez
-  - We propose a hybrid quantum-classical algorithm for the simulation of real-time dynamics in interacting quantum field theories coupled to classical fields, focusing on the self-consistent estimation o...
+- **[Charge-Carrier transport simulations in diamond detectors with electric-field-dependent mobility and charge-collection-distance-based trapping](http://arxiv.org/abs/2603.13146v1)** (2026-03)
+  - Faiz Rahman Ishaqzai, Muhammed Deniz, Marta Baselga
+  - Diamond detectors are attractive for operation in harsh radiation environments because they combine radiation tolerance, fast signal formation, and low leakage current. Realistic detector-response sim...
 
-- **[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](http://arxiv.org/abs/2603.06507v1)** (2026-03)
-  - Hila Chefer, Patrick Esser, Dominik Lorenz
-  - Strong semantic representations improve the convergence and generation quality of diffusion and flow models. Existing approaches largely rely on external models, which require separate training, opera...
+- **[Developing the PsyCogMetrics AI Lab to Evaluate Large Language Models and Advance Cognitive Science -- A Three-Cycle Action Design Science Study](http://arxiv.org/abs/2603.13126v1)** (2026-03)
+  - Zhiye Jin, Yibai Li, K. D. Joshi
+  - This study presents the development of the PsyCogMetrics AI Lab (psycogmetrics.ai), an integrated, cloud-based platform that operationalizes psychometric and cognitive-science methodologies for Large ...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-03-09 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-03-16 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
