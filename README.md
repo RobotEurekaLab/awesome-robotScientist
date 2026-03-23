@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Semantic Invariance in Agentic AI](http://arxiv.org/abs/2603.13173v1)** (2026-03)
-  - I. de Zarzà, J. de Curtò, Jordi Cabot
-  - Large Language Models (LLMs) increasingly serve as autonomous reasoning agents in decision support, scientific problem-solving, and multi-agent coordination systems. However, deploying LLM agents in c...
+- **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)** (2026-03)
+  - Xinyi Shang, Yi Tang, Jiacheng Cui
+  - Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl...
 
-- **[Connecting JWST Silicate Cloud Observations to Exoplanet Cloud Microphysics with Nimbus](http://arxiv.org/abs/2603.13167v1)** (2026-03)
-  - Sven Kiefer, Caroline V. Morley, Melanie Rowland
-  - The unprecedented accuracy of JWST has led to the detection of silicate clouds in exoplanet atmospheres, allowing for the first time to probe cloud formation in extreme environments. While parametrize...
+- **[Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods](http://arxiv.org/abs/2603.20188v1)** (2026-03)
+  - Sebastian Gerard, Josephine Sullivan
+  - Predicting future states in uncertain environments, such as wildfire spread, medical diagnosis, or autonomous driving, requires models that can consider multiple plausible outcomes. While diffusion mo...
 
-- **[Defensible Design for OpenClaw: Securing Autonomous Tool-Invoking Agents](http://arxiv.org/abs/2603.13151v1)** (2026-03)
-  - Zongwei Li, Wenkai Li, Xiaoqi Li
-  - OpenClaw-like agents offer substantial productivity benefits, yet they are insecure by default because they combine untrusted inputs, autonomous action, extensibility, and privileged system access wit...
+- **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](http://arxiv.org/abs/2603.20179v1)** (2026-03)
+  - Eric A. Moreno, Samuel Bright-Thonney, Andrzej Novak
+  - Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP...
 
-- **[Charge-Carrier transport simulations in diamond detectors with electric-field-dependent mobility and charge-collection-distance-based trapping](http://arxiv.org/abs/2603.13146v1)** (2026-03)
-  - Faiz Rahman Ishaqzai, Muhammed Deniz, Marta Baselga
-  - Diamond detectors are attractive for operation in harsh radiation environments because they combine radiation tolerance, fast signal formation, and low leakage current. Realistic detector-response sim...
+- **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](http://arxiv.org/abs/2603.20164v1)** (2026-03)
+  - Jiyu Lim, Youngwoo Yoon, Kwanghyun Park
+  - Conventional robot social behavior generation has been limited in flexibility and autonomy, relying on predefined motions or human feedback. This study proposes CRISP (Critique-and-Replan for Interact...
 
-- **[Developing the PsyCogMetrics AI Lab to Evaluate Large Language Models and Advance Cognitive Science -- A Three-Cycle Action Design Science Study](http://arxiv.org/abs/2603.13126v1)** (2026-03)
-  - Zhiye Jin, Yibai Li, K. D. Joshi
-  - This study presents the development of the PsyCogMetrics AI Lab (psycogmetrics.ai), an integrated, cloud-based platform that operationalizes psychometric and cognitive-science methodologies for Large ...
+- **[HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels](http://arxiv.org/abs/2603.20150v1)** (2026-03)
+  - Shuoyuan Xu, Zhipeng Zhong, Tiago Barros
+  - Agricultural robotics is gaining increasing relevance in both research and real-world deployment. As these systems are expected to operate autonomously in more complex tasks, the availability of repre...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-03-16 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-03-23 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
