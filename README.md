@@ -446,6 +446,7 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 - **[Generate Biomedicines](https://generatebiomedicines.com/)** - Generative AI for therapeutics
 - **[Absci](https://www.absci.com/)** - AI for antibody discovery
 - **[Insitro](https://insitro.com/)** - Machine learning for drug discovery
+- **[Medra](https://www.medra.ai/)** - AI startup for science (San Francisco, CA)
 - **[Zymergen](https://www.zymergen.com/)** - Biofacturing with AI and automation
 - **[Ginkgo Bioworks](https://www.ginkgobioworks.com/)** - Organism engineering platform
 
@@ -489,6 +490,7 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 - **Machine Learning for Molecules Workshop** - At various AI conferences
 - **AI for Accelerated Materials Design** - Workshop series
 - **Chemistry and Materials Science at Scale** - Computational chemistry workshops
+- **[AI, Robot for Science (IROS 2025 Workshop)](https://airobot4sci.github.io/)** - Organized by Pengsong Zhang and Heng Zhang, et al.
 
 ### Online Communities and Forums
 
