@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)** (2026-03)
-  - Xinyi Shang, Yi Tang, Jiacheng Cui
-  - Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl...
+- **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](http://arxiv.org/abs/2603.26660v1)** (2026-03)
+  - Xinqi, Liu, Ruoxi Hu
+  - Lack of accessible and dexterous robot hardware has been a significant bottleneck to achieving human-level dexterity in robots. Last year, we released Ruka, a fully open-sourced, tendon-driven humanoi...
 
-- **[Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods](http://arxiv.org/abs/2603.20188v1)** (2026-03)
-  - Sebastian Gerard, Josephine Sullivan
-  - Predicting future states in uncertain environments, such as wildfire spread, medical diagnosis, or autonomous driving, requires models that can consider multiple plausible outcomes. While diffusion mo...
+- **[Autonomous Hamiltonian certification and changepoint detection](http://arxiv.org/abs/2603.26655v1)** (2026-03)
+  - Steven T. Flammia, Dmitrii Khitrin, Muzhou Ma
+  - Modern quantum devices require high-precision Hamiltonian dynamics, but environmental noise can cause calibrated Hamiltonian parameters to drift over time, necessitating expensive recalibration. Detec...
 
-- **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](http://arxiv.org/abs/2603.20179v1)** (2026-03)
-  - Eric A. Moreno, Samuel Bright-Thonney, Andrzej Novak
-  - Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP...
+- **[Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us](http://arxiv.org/abs/2603.26635v1)** (2026-03)
+  - Maria Milkowski, Tim Weninger
+  - As large language models are deployed as autonomous agents, their capacity for strategic deception raises core questions for coordination, reliability, and safety in multi-goal, multi-agent systems. W...
 
-- **[The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning](http://arxiv.org/abs/2603.20164v1)** (2026-03)
-  - Jiyu Lim, Youngwoo Yoon, Kwanghyun Park
-  - Conventional robot social behavior generation has been limited in flexibility and autonomy, relying on predefined motions or human feedback. This study proposes CRISP (Critique-and-Replan for Interact...
+- **[AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing](http://arxiv.org/abs/2603.26546v1)** (2026-03)
+  - Tianyu Liu, Weitao Xiong, Kunming Luo
+  - Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather sce...
 
-- **[HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels](http://arxiv.org/abs/2603.20150v1)** (2026-03)
-  - Shuoyuan Xu, Zhipeng Zhong, Tiago Barros
-  - Agricultural robotics is gaining increasing relevance in both research and real-world deployment. As these systems are expected to operate autonomously in more complex tasks, the availability of repre...
+- **[User Involvement in Robotic Wheelchair Development: A Decade of Limited Progress](http://arxiv.org/abs/2603.26543v1)** (2026-03)
+  - Mario Andres Chavarria, Santiago Price Torrendell, Aude Billard
+  - Robotic wheelchairs (RWs) offer significant potential to enhance autonomy and participation for people with mobility impairments, yet many systems have failed to achieve sustained real-world adoption....
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-03-23 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-03-30 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
