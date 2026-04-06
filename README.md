@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2026-03**: Advances in self-driving labs and autonomous research continue
-- **2026-03**: New AI models for scientific hypothesis generation and testing
-- **2026-03**: Integration of robotics and machine learning in laboratory automation
+- **2026-04**: Advances in self-driving labs and autonomous research continue
+- **2026-04**: New AI models for scientific hypothesis generation and testing
+- **2026-04**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](http://arxiv.org/abs/2603.26660v1)** (2026-03)
-  - Xinqi, Liu, Ruoxi Hu
-  - Lack of accessible and dexterous robot hardware has been a significant bottleneck to achieving human-level dexterity in robots. Last year, we released Ruka, a fully open-sourced, tendon-driven humanoi...
+- **[From Industry Claims to Empirical Reality: An Empirical Study of Code Review Agents in Pull Requests](http://arxiv.org/abs/2604.03196v1)** (2026-04)
+  - Kowshik Chowdhury, Dipayan Banik, K M Ferdous
+  - Autonomous coding agents are generating code at an unprecedented scale, with OpenAI Codex alone creating over 400,000 pull requests (PRs) in two months. As agentic PR volumes increase, code review age...
 
-- **[Autonomous Hamiltonian certification and changepoint detection](http://arxiv.org/abs/2603.26655v1)** (2026-03)
-  - Steven T. Flammia, Dmitrii Khitrin, Muzhou Ma
-  - Modern quantum devices require high-precision Hamiltonian dynamics, but environmental noise can cause calibrated Hamiltonian parameters to drift over time, necessitating expensive recalibration. Detec...
+- **[Minimal Information Control Invariance via Vector Quantization](http://arxiv.org/abs/2604.03132v1)** (2026-04)
+  - Ege Yuceel, Teodor Tchalakov, Sayan Mitra
+  - Safety-critical autonomous systems must satisfy hard state constraints under tight computational and sensing budgets, yet learning-based controllers are often far more complex than safe operation requ...
 
-- **[Deception and Communication in Autonomous Multi-Agent Systems: An Experimental Study with Among Us](http://arxiv.org/abs/2603.26635v1)** (2026-03)
-  - Maria Milkowski, Tim Weninger
-  - As large language models are deployed as autonomous agents, their capacity for strategic deception raises core questions for coordination, reliability, and safety in multi-goal, multi-agent systems. W...
+- **[An Independent Safety Evaluation of Kimi K2.5](http://arxiv.org/abs/2604.03121v1)** (2026-04)
+  - Zheng-Xin Yong, Parv Mahajan, Andy Wang
+  - Kimi K2.5 is an open-weight LLM that rivals closed models across coding, multimodal, and agentic benchmarks, but was released without an accompanying safety evaluation. In this work, we conduct a prel...
 
-- **[AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing](http://arxiv.org/abs/2603.26546v1)** (2026-03)
-  - Tianyu Liu, Weitao Xiong, Kunming Luo
-  - Generative video models have significantly advanced the photorealistic synthesis of adverse weather for autonomous driving; however, they consistently demand massive datasets to learn rare weather sce...
+- **[An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack](http://arxiv.org/abs/2604.03096v1)** (2026-04)
+  - Rémi Marsal, Quentin Picard, Adrien Poiré
+  - Off-road autonomous navigation demands reliable 3D perception for robust obstacle detection in challenging unstructured terrain. While LiDAR is accurate, it is costly and power-intensive. Monocular de...
 
-- **[User Involvement in Robotic Wheelchair Development: A Decade of Limited Progress](http://arxiv.org/abs/2603.26543v1)** (2026-03)
-  - Mario Andres Chavarria, Santiago Price Torrendell, Aude Billard
-  - Robotic wheelchairs (RWs) offer significant potential to enhance autonomy and participation for people with mobility impairments, yet many systems have failed to achieve sustained real-world adoption....
+- **[Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR](http://arxiv.org/abs/2604.03074v1)** (2026-04)
+  - Zhennan Lin, Shuai Wang, Zhaokai Sun
+  - Transcribing and understanding multi-speaker conversations requires speech recognition, speaker attribution, and timestamp localization. While speech LLMs excel at single-speaker tasks, multi-speaker ...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-03-30 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-04-06 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
