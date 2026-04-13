@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[From Industry Claims to Empirical Reality: An Empirical Study of Code Review Agents in Pull Requests](http://arxiv.org/abs/2604.03196v1)** (2026-04)
-  - Kowshik Chowdhury, Dipayan Banik, K M Ferdous
-  - Autonomous coding agents are generating code at an unprecedented scale, with OpenAI Codex alone creating over 400,000 pull requests (PRs) in two months. As agentic PR volumes increase, code review age...
+- **[The k-MENDEL sample of local analogs to reionization galaxies. Spectral identification of EELGs and properties of green peas in DESI](http://arxiv.org/abs/2604.09516v1)** (2026-04)
+  - L. Bonatto, R. Amorín, A. Giménez-Alcázar
+  - Low-mass galaxies with intense starbursts exhibit spectra dominated by extreme nebular emission and faint stellar continua. These extreme emission-line galaxies (EELGs) are key laboratories to study s...
 
-- **[Minimal Information Control Invariance via Vector Quantization](http://arxiv.org/abs/2604.03132v1)** (2026-04)
-  - Ege Yuceel, Teodor Tchalakov, Sayan Mitra
-  - Safety-critical autonomous systems must satisfy hard state constraints under tight computational and sensing budgets, yet learning-based controllers are often far more complex than safe operation requ...
+- **[Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing](http://arxiv.org/abs/2604.09499v1)** (2026-04)
+  - Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari
+  - Autonomous racing without prebuilt maps is a grand challenge for embedded robotics that requires kinodynamic planning from instantaneous sensor data at the acceleration and tire friction limits. Out-O...
 
-- **[An Independent Safety Evaluation of Kimi K2.5](http://arxiv.org/abs/2604.03121v1)** (2026-04)
-  - Zheng-Xin Yong, Parv Mahajan, Andy Wang
-  - Kimi K2.5 is an open-weight LLM that rivals closed models across coding, multimodal, and agentic benchmarks, but was released without an accompanying safety evaluation. In this work, we conduct a prel...
+- **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](http://arxiv.org/abs/2604.09493v1)** (2026-04)
+  - Om Solanki, Lopamudra Praharaj, Deepti Gupta
+  - Large Language Models (LLMs) offer a promising interface for intent-driven control of autonomous cyber-physical systems, but their direct use in mission-critical Internet of Battlefield Things (IoBT) ...
 
-- **[An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack](http://arxiv.org/abs/2604.03096v1)** (2026-04)
-  - Rémi Marsal, Quentin Picard, Adrien Poiré
-  - Off-road autonomous navigation demands reliable 3D perception for robust obstacle detection in challenging unstructured terrain. While LiDAR is accurate, it is costly and power-intensive. Monocular de...
+- **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](http://arxiv.org/abs/2604.09473v1)** (2026-04)
+  - Zhengxian Yang, Shengqi Wang, Shi Pan
+  - Fully immersive experiences that tightly integrate 6-DoF visual and auditory interaction are essential for virtual and augmented reality. While such experiences can be achieved through computer-genera...
 
-- **[Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR](http://arxiv.org/abs/2604.03074v1)** (2026-04)
-  - Zhennan Lin, Shuai Wang, Zhaokai Sun
-  - Transcribing and understanding multi-speaker conversations requires speech recognition, speaker attribution, and timestamp localization. While speech LLMs excel at single-speaker tasks, multi-speaker ...
+- **[HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?](http://arxiv.org/abs/2604.09408v1)** (2026-04)
+  - Mohamed Elfeki, Tu Trinh, Kelvin Luu
+  - Frontier coding agents solve complex tasks when given complete context but collapse when specifications are incomplete or ambiguous. The bottleneck is not raw capability, but judgment: knowing when to...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-04-06 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-04-13 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
