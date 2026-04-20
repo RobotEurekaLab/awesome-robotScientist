@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[The k-MENDEL sample of local analogs to reionization galaxies. Spectral identification of EELGs and properties of green peas in DESI](http://arxiv.org/abs/2604.09516v1)** (2026-04)
-  - L. Bonatto, R. Amorín, A. Giménez-Alcázar
-  - Low-mass galaxies with intense starbursts exhibit spectra dominated by extreme nebular emission and faint stellar continua. These extreme emission-line galaxies (EELGs) are key laboratories to study s...
+- **[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)** (2026-04)
+  - Eric Gan, Aryan Bhatt, Buck Shlegeris
+  - As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...
 
-- **[Physics-Informed Reinforcement Learning of Spatial Density Velocity Potentials for Map-Free Racing](http://arxiv.org/abs/2604.09499v1)** (2026-04)
-  - Shathushan Sivashangaran, Apoorva Khairnar, Sepideh Gohari
-  - Autonomous racing without prebuilt maps is a grand challenge for embedded robotics that requires kinodynamic planning from instantaneous sensor data at the acceleration and tire friction limits. Out-O...
+- **[Environmental Control of Self-Aligning Chiral Bristlebots](http://arxiv.org/abs/2604.16185v1)** (2026-04)
+  - Timo Wagner, Michael Himpel, Thomas Ihle
+  - Active matter systems characterized by the interplay of chirality and self-alignment offer a rich landscape for the emergence of non-equilibrium collective behaviors and the development of autonomous ...
 
-- **[Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration](http://arxiv.org/abs/2604.09493v1)** (2026-04)
-  - Om Solanki, Lopamudra Praharaj, Deepti Gupta
-  - Large Language Models (LLMs) offer a promising interface for intent-driven control of autonomous cyber-physical systems, but their direct use in mission-critical Internet of Battlefield Things (IoBT) ...
+- **[Real-Time Solution-Seeking for Game-Theoretic Autonomous Driving via Time-Distributed Iterations](http://arxiv.org/abs/2604.16184v1)** (2026-04)
+  - Shaoqing Liu, Mushuang Liu
+  - Computational complexity has been a major challenge in game-theoretic model predictive control (GT-MPC), as real-time solutions to a game (e.g., Nash equilibria (NEs)) have to be computed at each samp...
 
-- **[Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement](http://arxiv.org/abs/2604.09473v1)** (2026-04)
-  - Zhengxian Yang, Shengqi Wang, Shi Pan
-  - Fully immersive experiences that tightly integrate 6-DoF visual and auditory interaction are essential for virtual and augmented reality. While such experiences can be achieved through computer-genera...
+- **[Sensitivity of the $^{3,4}$He($K^-$, $π^0$) production ratio to the $Λ$ binding energy of $^3_Λ$H](http://arxiv.org/abs/2604.16181v1)** (2026-04)
+  - Toru Harada, Yoshiharu Hirabayashi
+  - We study the production of $^3_Λ$H and $^4_Λ$H in the $^{3,4}$He($K^-$,$π^0$) reactions at $p_{K^-}=1.0$~GeV/$c$ within the distorted-wave impulse approximation, using the optimal Fermi-averaged $K^-p...
 
-- **[HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?](http://arxiv.org/abs/2604.09408v1)** (2026-04)
-  - Mohamed Elfeki, Tu Trinh, Kelvin Luu
-  - Frontier coding agents solve complex tasks when given complete context but collapse when specifications are incomplete or ambiguous. The bottleneck is not raw capability, but judgment: knowing when to...
+- **[Winner of CVPR2026 NTIRE Challenge on Image Shadow Removal: Semantic and Geometric Guidance for Shadow Removal via Cascaded Refinement](http://arxiv.org/abs/2604.16177v1)** (2026-04)
+  - Lorenzo Beltrame, Jules Salzinger, Filip Svoboda
+  - We present a three-stage progressive shadow-removal pipeline for the CVPR2026 NTIRE WSRD+ challenge. Built on OmniSR, our method treats deshadowing as iterative direct refinement, where later stages c...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -659,6 +659,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-04-13 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-04-20 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
