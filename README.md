@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)** (2026-04)
-  - Eric Gan, Aryan Bhatt, Buck Shlegeris
-  - As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...
+- **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](http://arxiv.org/abs/2604.22748v1)** (2026-04)
+  - Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin
+  - As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...
 
-- **[Environmental Control of Self-Aligning Chiral Bristlebots](http://arxiv.org/abs/2604.16185v1)** (2026-04)
-  - Timo Wagner, Michael Himpel, Thomas Ihle
-  - Active matter systems characterized by the interplay of chirality and self-alignment offer a rich landscape for the emergence of non-equilibrium collective behaviors and the development of autonomous ...
+- **[Approaching the Limit of Quantum Clock Precision](http://arxiv.org/abs/2604.22704v1)** (2026-04)
+  - Chad Nelmes, Emanuel Schwarzhans, Tony Apollaro
+  - Precise and autonomous clocks are of fundamental interest and central importance to both foundational studies and practical applications. Here, we construct a blueprint for a quantum clock governed by...
 
-- **[Real-Time Solution-Seeking for Game-Theoretic Autonomous Driving via Time-Distributed Iterations](http://arxiv.org/abs/2604.16184v1)** (2026-04)
-  - Shaoqing Liu, Mushuang Liu
-  - Computational complexity has been a major challenge in game-theoretic model predictive control (GT-MPC), as real-time solutions to a game (e.g., Nash equilibria (NEs)) have to be computed at each samp...
+- **[Dense Matter and Compact Stars in Strong Magnetic Fields](http://arxiv.org/abs/2604.22680v1)** (2026-04)
+  - Monika Sinha, Vivek Baruah Thapa
+  - Compact stars serve as natural systems where matter exists at densities far beyond those achievable in laboratory experiments. Among them, magnetars are expected to possess interior magnetic fields th...
 
-- **[Sensitivity of the $^{3,4}$He($K^-$, $π^0$) production ratio to the $Λ$ binding energy of $^3_Λ$H](http://arxiv.org/abs/2604.16181v1)** (2026-04)
-  - Toru Harada, Yoshiharu Hirabayashi
-  - We study the production of $^3_Λ$H and $^4_Λ$H in the $^{3,4}$He($K^-$,$π^0$) reactions at $p_{K^-}=1.0$~GeV/$c$ within the distorted-wave impulse approximation, using the optimal Fermi-averaged $K^-p...
+- **[Penalised and constrained geodesics in geometric control theory](http://arxiv.org/abs/2604.22668v1)** (2026-04)
+  - Rufus Lawrence, Aleš Wodecki, Johannes Aspman
+  - In many problems in optimal control, one seeks to minimise an objective function subject to constraints on the velocity of the system. Imposing these constraints directly -- the ``hard-constrained'' a...
 
-- **[Winner of CVPR2026 NTIRE Challenge on Image Shadow Removal: Semantic and Geometric Guidance for Shadow Removal via Cascaded Refinement](http://arxiv.org/abs/2604.16177v1)** (2026-04)
-  - Lorenzo Beltrame, Jules Salzinger, Filip Svoboda
-  - We present a three-stage progressive shadow-removal pipeline for the CVPR2026 NTIRE WSRD+ challenge. Built on OmniSR, our method treats deshadowing as iterative direct refinement, where later stages c...
+- **[A Non-Invasive Alternative to RFID: Self-Sufficient 3D Identification of Group-Housed Livestock](http://arxiv.org/abs/2604.22657v1)** (2026-04)
+  - Shiva Paudel, TsungCheng Tsai, Dongyi Wang
+  - Accurate identification of individual farm animals in group-housed environments is a cornerstone of precision livestock management. However, current industry standards rely heavily on Radio Frequency ...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -661,6 +661,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-04-20 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-04-27 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
