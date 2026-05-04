@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2026-04**: Advances in self-driving labs and autonomous research continue
-- **2026-04**: New AI models for scientific hypothesis generation and testing
-- **2026-04**: Integration of robotics and machine learning in laboratory automation
+- **2026-05**: Advances in self-driving labs and autonomous research continue
+- **2026-05**: New AI models for scientific hypothesis generation and testing
+- **2026-05**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -230,25 +230,25 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent Advances (2023-2025)
 
 <!-- AUTO-GENERATED:PAPERS:START -->
-- **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](http://arxiv.org/abs/2604.22748v1)** (2026-04)
-  - Meng Chu, Xuan Billy Zhang, Kevin Qinghong Lin
-  - As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...
+- **[Can Coding Agents Reproduce Findings in Computational Materials Science?](http://arxiv.org/abs/2605.00803v1)** (2026-05)
+  - Ziyang Huang, Yi Cao, Ali K. Shargh
+  - Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ...
 
-- **[Approaching the Limit of Quantum Clock Precision](http://arxiv.org/abs/2604.22704v1)** (2026-04)
-  - Chad Nelmes, Emanuel Schwarzhans, Tony Apollaro
-  - Precise and autonomous clocks are of fundamental interest and central importance to both foundational studies and practical applications. Here, we construct a blueprint for a quantum clock governed by...
+- **[RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution](http://arxiv.org/abs/2605.00798v1)** (2026-05)
+  - Arunabh Srivastava, Mohammad A., Khojastepour
+  - Humans solve problems by executing targeted plans, yet large language models (LLMs) remain unreliable for structured workflow execution. We propose RunAgent, a multi-agent plan execution platform that...
 
-- **[Dense Matter and Compact Stars in Strong Magnetic Fields](http://arxiv.org/abs/2604.22680v1)** (2026-04)
-  - Monika Sinha, Vivek Baruah Thapa
-  - Compact stars serve as natural systems where matter exists at densities far beyond those achievable in laboratory experiments. Among them, magnetars are expected to possess interior magnetic fields th...
+- **[Map2World: Segment Map Conditioned Text to 3D World Generation](http://arxiv.org/abs/2605.00781v1)** (2026-05)
+  - Jaeyoung Chung, Suyoung Lee, Jianfeng Xiang
+  - 3D world generation is essential for applications such as immersive content creation or autonomous driving simulation. Recent advances in 3D world generation have shown promising results; however, the...
 
-- **[Penalised and constrained geodesics in geometric control theory](http://arxiv.org/abs/2604.22668v1)** (2026-04)
-  - Rufus Lawrence, Aleš Wodecki, Johannes Aspman
-  - In many problems in optimal control, one seeks to minimise an objective function subject to constraints on the velocity of the system. Imposing these constraints directly -- the ``hard-constrained'' a...
+- **[The Rocky Planet Picture Show: Implementation of Surface Reflection and Emission in $	exttt{POSEIDON}$ with Application to and Interpretation of JWST Data](http://arxiv.org/abs/2605.00700v1)** (2026-05)
+  - Elijah Mullens, Ryan J. MacDonald, Marina E. Gemma
+  - The surface characterization of rocky exoplanets via emission spectroscopy represents a frontier of current (JWST) and future (HWO) observational efforts. Here, we implement new features in the open-s...
 
-- **[A Non-Invasive Alternative to RFID: Self-Sufficient 3D Identification of Group-Housed Livestock](http://arxiv.org/abs/2604.22657v1)** (2026-04)
-  - Shiva Paudel, TsungCheng Tsai, Dongyi Wang
-  - Accurate identification of individual farm animals in group-housed environments is a cornerstone of precision livestock management. However, current industry standards rely heavily on Radio Frequency ...
+- **[Stability of parton distributions at high $x$: impact of nuclear and power corrections](http://arxiv.org/abs/2605.00666v1)** (2026-05)
+  - C. Cocuzza, W. Melnitchouk, N. Sato
+  - We present a comprehensive new global QCD analysis of unpolarized parton distribution functions (PDFs) based upon proton, deuteron and $A\!=\!3$ data, including the latest inclusive deep-inelastic sca...
 <!-- AUTO-GENERATED:PAPERS:END -->
 
 ### Survey Papers
@@ -661,6 +661,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-04-27 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-05-04 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
