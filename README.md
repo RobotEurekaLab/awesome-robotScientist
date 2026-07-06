@@ -23,9 +23,9 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 ### Recent News
 
 <!-- AUTO-GENERATED:NEWS:START -->
-- **2026-06**: Advances in self-driving labs and autonomous research continue
-- **2026-06**: New AI models for scientific hypothesis generation and testing
-- **2026-06**: Integration of robotics and machine learning in laboratory automation
+- **2026-07**: Advances in self-driving labs and autonomous research continue
+- **2026-07**: New AI models for scientific hypothesis generation and testing
+- **2026-07**: Integration of robotics and machine learning in laboratory automation
 <!-- AUTO-GENERATED:NEWS:END -->
 
 ### Blogs and Articles
@@ -661,6 +661,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-06-29 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-07-06 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
