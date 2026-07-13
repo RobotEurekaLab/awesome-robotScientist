@@ -661,6 +661,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ---
 
-**Last Updated**: 2026-07-06 (Auto-updated weekly via GitHub Actions)
+**Last Updated**: 2026-07-13 (Auto-updated weekly via GitHub Actions)
 
 *This list is also related to: robot-assisted self-driving lab, AI & Robot for science, and lab automation*
