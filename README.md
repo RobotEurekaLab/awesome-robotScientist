@@ -459,6 +459,10 @@ This collection focuses on autonomous laboratory systems that integrate robotics
 - **[ZenoTech](https://zenotech.com/)** - Computational engineering
 - **[Molecular Forecaster](https://www.molecularforecaster.com/)** - AI for organic chemistry
 
+
+
+* MatterSeek - Proprietary web platform for materials R&D; Yuyao Technology describes AI-assisted forward property prediction and inverse design.
+
 ### Software Platforms
 
 - **[Benchling](https://www.benchling.com/)** - Life sciences R&D cloud platform
